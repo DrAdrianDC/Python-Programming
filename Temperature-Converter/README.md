@@ -10,6 +10,8 @@ The Temperature Converter program allows users to convert temperatures from Cels
 ```bash
 ./temperature_converter.py
 ```
+or
+
 ```bash
 python temperature_converter.py
 ```
