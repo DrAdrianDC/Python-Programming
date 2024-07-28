@@ -6,8 +6,8 @@ This is a simple command-line program for converting temperatures between Celsiu
 The Temperature Converter program allows users to convert temperatures from Celsius to Fahrenheit and vice versa. The user selects a conversion option, enters a temperature value, and the program outputs the converted temperature.
 ### How to Use
 
-* Run the Program
-
+1. ** Run the Program **
+```bash
 ./temperature_converter.py
 
 * Select a Conversion Option
