@@ -10,7 +10,7 @@ The Temperature Converter program allows users to convert temperatures from Cels
 ```bash
 ./temperature_converter.py
 ```
-* Select a Conversion Option
+2. **Select a Conversion Option**
 
 The program will display the following options:
 1. Celsius to Fahrenheit
@@ -18,11 +18,11 @@ The program will display the following options:
 
 Enter 1 to convert from Celsius to Fahrenheit or 2 to convert from Fahrenheit to Celsius.
 
-* Enter the Temperature
+3. **Enter the Temperature**
 
 The program will prompt you to enter the temperature you want to convert.
 
-* View the Result
+4. **View the Result**
 
 The program will display the converted temperature.
 
@@ -30,14 +30,14 @@ The program will display the converted temperature.
 ### Example
 
 Here is an example of how the program works:
-
+```
 TEMPERATURE CONVERTER
 1. Celsius to Fahrenheit 
 2. Fahrenheit to Celsius
 Select an option: 1
 Temperature: 25
 The temperature on the Fahrenheit scale is  77.0
-
+```
 
 ### Requirements
 
