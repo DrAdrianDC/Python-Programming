@@ -8,12 +8,12 @@ The Temperature Converter program allows users to convert temperatures from Cels
 
 1. **Run the Program**
 ```bash
-./temperature_converter.py
+./temperature-converter.py
 ```
 or
 
 ```bash
-python temperature_converter.py
+python temperature-converter.py
 ```
 2. **Select a Conversion Option**
 
