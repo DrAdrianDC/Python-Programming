@@ -22,5 +22,10 @@ Here's an example of how the application works:
  **Step 3-**   Select the operation (e.g., 1 for addition) 
  
  **Step 4-**   The result will be displayed: 10 + 5 = 15 
+
+
+### Requirements
+
+    Python 3.8.3
  
  
