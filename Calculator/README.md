@@ -2,7 +2,17 @@
 This is a simple console-based calculator application implemented in Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## How to use
+ **Run the Program**
+```bash
+./calculator.py
+```
+or
 
+```bash
+python calculator.py
+```
+
+## Example
 Here's an example of how the application works:
 
  **Step 1-**   Input the first number: 10 
