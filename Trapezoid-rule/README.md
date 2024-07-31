@@ -4,3 +4,15 @@ This folder contains a Python implementation of the Trapezoidal Rule. This numer
 
 #### How it works
 The Trapezoidal Rule estimates the integral by dividing the area under the curve into trapezoids, calculating the area of each trapezoid, and summing these areas to obtain the approximation.
+
+## How to usage
+
+ **Run the Program**
+```bash
+./python trapezoidal-rule.py
+```
+or
+
+```bash
+python trapezoidal-rule.py
+```
