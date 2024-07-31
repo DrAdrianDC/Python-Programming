@@ -7,12 +7,15 @@ This folder contains two Python programs that implement root-finding algorithms:
 The Bisection Method is a straightforward iterative method to find the root of a function. It works by repeatedly bisecting an interval and selecting a subinterval in which a root must lie.
 #### How it Works
 
-    Start with an interval [a,b][a,b] where the function changes sign.
-    Compute the midpoint c=a+b/2
-    Determine the subinterval [a,c][a,c] or [c,b][c,b] where the function changes sign.
-    Repeat the process until the interval is sufficiently small.
+1. Start with an interval `[a, b]` where the function changes sign, i.e., `f(a) * f(b) < 0`.
+2. Compute the midpoint `c = (a + b) / 2`.
+3. Determine the subinterval `[a, c]` or `[c, b]` where the function changes sign:
+   - If `f(a) * f(c) < 0`, then the root is in the interval `[a, c]`.
+   - Otherwise, the root is in the interval `[c, b]`.
+4. Update the interval to the subinterval identified in the previous step.
+5. Repeat the process until the interval `[a, b]` is sufficiently small.
 
-The algorithm is guaranteed to converge if the function is continuous on [a,b][a,b] and f(a)f(a) and f(b)f(b) have opposite signs.
+This method is guaranteed to converge to a root if the function is continuous on `[a, b]` and `f(a)` and `f(b)` have opposite signs.
 
 ### Newton-Raphson Method
 
