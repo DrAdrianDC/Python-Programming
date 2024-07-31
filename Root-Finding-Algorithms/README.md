@@ -8,7 +8,7 @@ The Bisection Method is a straightforward iterative method to find the root of a
 How it Works
 
     Start with an interval [a,b][a,b] where the function changes sign.
-    Compute the midpoint c=a+b2c=2a+b​.
+    Compute the midpoint c=a+b/2
     Determine the subinterval [a,c][a,c] or [c,b][c,b] where the function changes sign.
     Repeat the process until the interval is sufficiently small.
 
