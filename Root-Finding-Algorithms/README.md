@@ -19,12 +19,12 @@ The algorithm is guaranteed to converge if the function is continuous on [a,b][a
 The Newton-Raphson Method is an efficient and widely used iterative method to find roots of a real-valued function. It uses the function's derivative to converge to a root.
 #### How it Works
 
-1. Start with an initial guess \( x_0 \).
+### How it Works
+
+1. Start with an initial guess `x_0`.
 2. Compute the next approximation using the formula:
 
-   \[
-   x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
-   \]
+   `x_(n+1) = x_n - f(x_n) / f'(x_n)`
 
 3. Repeat the process until convergence is achieved.
 
