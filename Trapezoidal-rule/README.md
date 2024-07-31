@@ -16,3 +16,7 @@ or
 ```bash
 python trapezoidal-rule.py
 ```
+
+## Requirements
+
+    Python 3.8.3
