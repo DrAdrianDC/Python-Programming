@@ -34,7 +34,7 @@ This method typically converges faster than the Bisection Method but requires th
 or
 
 ```bash
-python python bisection.py
+python bisection.py
 ```
 
 Running Newton-Raphson Method
