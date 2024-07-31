@@ -27,7 +27,15 @@ This method typically converges faster than the Bisection Method but requires th
 
 ## How to usage
 
-Running Bisection Method
+ **Run the Program**
+```bash
+./calculator.py
+```
+or
+
+```bash
+python calculator.py
+```
 
 To run the Bisection Method, execute the bisection.py script:
 
