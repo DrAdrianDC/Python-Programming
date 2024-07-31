@@ -5,7 +5,7 @@ This folder contains two Python programs that implement root-finding algorithms:
 ### Bisection Method
 
 The Bisection Method is a straightforward iterative method to find the root of a function. It works by repeatedly bisecting an interval and selecting a subinterval in which a root must lie.
-How it Works
+#### How it Works
 
     Start with an interval [a,b][a,b] where the function changes sign.
     Compute the midpoint c=a+b/2
@@ -13,3 +13,17 @@ How it Works
     Repeat the process until the interval is sufficiently small.
 
 The algorithm is guaranteed to converge if the function is continuous on [a,b][a,b] and f(a)f(a) and f(b)f(b) have opposite signs.
+
+### Newton-Raphson Method
+
+The Newton-Raphson Method is an efficient and widely used iterative method to find roots of a real-valued function. It uses the function's derivative to converge to a root.
+#### How it Works
+
+    Start with an initial guess x0x0​.
+    Compute the next approximation using the formula: xn+1=xn−f(xn)f′(xn)xn+1​=xn​−f′(xn​)f(xn​)​.
+    Repeat the process until convergence is achieved.
+
+This method typically converges faster than the Bisection Method but requires the function to be differentiable and the initial guess to be sufficiently close to the actual root.
+
+
+
