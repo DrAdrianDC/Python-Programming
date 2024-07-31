@@ -10,6 +10,7 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Temperature Converter**
 
+.**Trapezoidal Rule**
 
 ## License
 
