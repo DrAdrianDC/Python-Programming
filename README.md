@@ -6,7 +6,7 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Calculator**
 
-.**Finding Roots Algorithms**
+.**Root Finding Algorithms**
 
 .**Temperature Converter**
 
