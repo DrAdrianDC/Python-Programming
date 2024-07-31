@@ -29,24 +29,26 @@ This method typically converges faster than the Bisection Method but requires th
 
  **Run the Program**
 ```bash
-./calculator.py
+./python bisection.py
 ```
 or
 
 ```bash
-python calculator.py
+python python bisection.py
 ```
-
-To run the Bisection Method, execute the bisection.py script:
-
-python bisection.py
-
 
 Running Newton-Raphson Method
 
 To run the Newton-Raphson Method, execute the newton_raphson.py script:
 
+```bash
+./python newton_raphson.py
+```
+or
+
+```bash
 python newton_raphson.py
+```
 
 
 ## Requirements
