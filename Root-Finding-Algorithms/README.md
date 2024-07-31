@@ -25,5 +25,26 @@ The Newton-Raphson Method is an efficient and widely used iterative method to fi
 
 This method typically converges faster than the Bisection Method but requires the function to be differentiable and the initial guess to be sufficiently close to the actual root.
 
+## How to usage
 
+Running Bisection Method
+
+To run the Bisection Method, execute the bisection.py script:
+
+python bisection.py
+
+
+Running Newton-Raphson Method
+
+To run the Newton-Raphson Method, execute the newton_raphson.py script:
+
+python newton_raphson.py
+
+
+## Requirements
+
+    Python 3.8.3
+    NumPy 
+
+    
 
