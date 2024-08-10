@@ -39,3 +39,10 @@ python text-to-speech.py
  * gTTS library
  * Operating system with a command to play audio files (e.g., open for macOS)
 
+## Installation
+
+To run this script, you need to install the required gTTS library. You can install it using pip:
+```bash
+pip install gTTS
+```
+
