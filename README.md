@@ -10,6 +10,8 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Temperature Converter**
 
+.**Text to Speech Conversion**
+
 .**Trapezoidal Rule**
 
 ## License
