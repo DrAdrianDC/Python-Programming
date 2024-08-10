@@ -14,12 +14,12 @@ This Python code demonstrates how to convert a given text into speech using the 
 
  **Run the Program**
 ```bash
-./python trapezoidal-rule.py
+./python text-to-speech.py
 ```
 or
 
 ```bash
-python trapezoidal-rule.py
+python text-to-speech.py
 ```
 
 ## Requirements
