@@ -24,7 +24,7 @@ python text-to-speech.py
 
 ## Requirements
 
- Python 3.8.3
- gTTS library
- Operating system with a command to play audio files (e.g., open for macOS)
+ * Python 3.8.3
+ * gTTS library
+ * Operating system with a command to play audio files (e.g., open for macOS)
 
