@@ -2,7 +2,7 @@
 
 This Python code demonstrates how to convert a given text into speech using the gTTS (Google Text-to-Speech) library and then plays the converted audio file. 
 
-## Features
+### Features
 
 **Text to Speech Conversion:** Converts the provided text into audio using Google Text-to-Speech.
 
@@ -14,7 +14,7 @@ This Python code demonstrates how to convert a given text into speech using the 
 
 
 
-## How to usage
+### How to usage
 
 **Modify the Text:** Change the value of mytext in the script to the text you want to convert to speech.
 
@@ -39,7 +39,7 @@ python text-to-speech.py
  * gTTS library
  * Operating system with a command to play audio files (e.g., open for macOS)
 
-## Installation
+### Installation
 
 To run this code, you need to install the required gTTS library. You can install it using pip:
 ```bash
