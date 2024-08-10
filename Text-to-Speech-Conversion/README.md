@@ -41,7 +41,7 @@ python text-to-speech.py
 
 ## Installation
 
-To run this script, you need to install the required gTTS library. You can install it using pip:
+To run this code, you need to install the required gTTS library. You can install it using pip:
 ```bash
 pip install gTTS
 ```
