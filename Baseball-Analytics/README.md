@@ -5,3 +5,9 @@ Web scraping, data manipulation with pandas, and plotting are all integral parts
 
 ## Results
 ![figure](https://github.com/user-attachments/assets/112456fc-5b73-444d-b4b7-0daa40c7daf2)
+
+
+
+## Requirements
+
+ * Python 3.8.3
