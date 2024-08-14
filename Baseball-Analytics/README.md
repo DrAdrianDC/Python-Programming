@@ -1,6 +1,7 @@
 # Baseball Analytics
 
 ## Overview
+Web scraping, data manipulation with pandas, and plotting are all integral parts of Python programming, especially in fields like data science, analytics, and machine learning.
 
 ## Results
 ![figure](https://github.com/user-attachments/assets/112456fc-5b73-444d-b4b7-0daa40c7daf2)
