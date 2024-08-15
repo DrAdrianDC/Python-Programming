@@ -14,4 +14,6 @@ In the Jupyter notebook is analyzed the wins/loss results of the American League
 
 ## Requirements
 
- * Python 3.8.3
+ * python 3.8.3
+ * pandas 2.0.3
+ * beautifulsoup4
