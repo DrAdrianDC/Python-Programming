@@ -9,7 +9,8 @@ In the Jupyter notebook is analyzed the wins/loss results of the American League
 
 ## Results
 
-![mlb_team_results](https://github.com/user-attachments/assets/fc0478f2-16c7-4d6a-89b3-d0c96f42d1dc)
+![mlb_team_results](https://github.com/user-attachments/assets/8148a07d-03f9-4d28-9715-3cb31167ca94)
+
 
 
 ## Requirements
