@@ -6,4 +6,4 @@
 
 ## Requirements
 
- * **python 3.8.3**
+ * **Python 3.8.3**
