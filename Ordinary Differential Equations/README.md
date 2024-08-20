@@ -36,8 +36,9 @@ To run this project, you need to have Python installed along with the following 
 
 **1. Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/differential-equation-solver.git
-cd differential-equation-solver
+git clone https://github.com/DrAdrianDC/Python-Programming.git
+cd Python-Programming/ODE-Solver/
+
 ```
 **2. Run the Script:**
 Execute the Python script to solve the ODE and display the plot:
