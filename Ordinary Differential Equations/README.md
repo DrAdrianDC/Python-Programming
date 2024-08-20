@@ -31,7 +31,13 @@ To run this project, you need to have Python installed along with the following 
 
 ## How to use
 
-
+1. Clone the Repository:
+''' bash 
+git clone https://github.com/yourusername/differential-equation-solver.git
+cd differential-equation-solver
+'''
+2. 
+5. 
 
 ## Customization
 
