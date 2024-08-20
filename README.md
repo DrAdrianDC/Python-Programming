@@ -10,7 +10,7 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Calculator**
 
-.**Ordinary Differential Equations**
+.**ODE Solver**
 
 .**Root Finding Algorithms**
 
