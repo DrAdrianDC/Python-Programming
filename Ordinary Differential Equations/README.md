@@ -6,12 +6,15 @@ This simple project demonstrates how to solve ordinary differential equations (O
 
 We aim to solve the following first-order ODE:
 
-\[ \frac{dy}{dt} = -2y + \sin(t) \]
+$$
+\frac{dy}{dt} = -2y + \sin(t)
+$$
 
 with the initial condition:
 
-\[ y(0) = 1 \]
-
+$$
+y(0) = 1
+$$
 ## Features
 
 - **Solving ODEs**: The project uses the `odeint` function from the `scipy.integrate` module to solve the differential equation.
