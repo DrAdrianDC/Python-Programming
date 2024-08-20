@@ -32,3 +32,8 @@ You can install the required libraries using `pip`:
 ```bash
 pip install numpy matplotlib scipy
 
+
+
+## Customization
+
+You can modify the differential equation by editing the dydt function in the script. For example, to solve a different ODE, simply change the expression inside the dydt function.
