@@ -31,14 +31,17 @@ To run this project, you need to have Python installed along with the following 
 
 ## How to use
 
-1. Clone the Repository:
+**1. Clone the Repository:**
 ```bash
 git clone https://github.com/yourusername/differential-equation-solver.git
 cd differential-equation-solver
 ```
-2. Run the Script:
+**2. Run the Script:**
 Execute the Python script to solve the ODE and display the plot:
-3. Output:
+```bash
+python ODE.py
+```
+**3. Output:**
 
     The script will print the differential equation being solved.
     The solution y(t)y(t) will be plotted and displayed.
