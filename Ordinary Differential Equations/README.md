@@ -20,6 +20,8 @@ with the initial condition:
 
 ## Requirements
 
+* Python 3.8.3
+  
 To run this project, you need to have Python installed along with the following libraries:
 
 - `numpy`
