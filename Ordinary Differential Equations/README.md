@@ -27,12 +27,6 @@ To run this project, you need to have Python installed along with the following 
 - `scipy`
 
 
-You can install the required libraries using `pip`:
-
-```bash
-pip install numpy matplotlib scipy
-
-
 
 ## Customization
 
