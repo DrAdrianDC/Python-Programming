@@ -36,8 +36,13 @@ To run this project, you need to have Python installed along with the following 
 git clone https://github.com/yourusername/differential-equation-solver.git
 cd differential-equation-solver
 
-2. 
-5. 
+2. Run the Script:
+Execute the Python script to solve the ODE and display the plot:
+3. Output:
+
+    The script will print the differential equation being solved.
+    The solution y(t)y(t) will be plotted and displayed.
+    The plot will be saved as ode_solution.png in the current directory. 
 
 ## Customization
 
