@@ -18,7 +18,7 @@ with the initial condition:
 - **Plotting Results**: The solution of the ODE is visualized using `matplotlib`, showing how the function \( y(t) \) evolves over time.
 
 
-## Installation
+## Requirements
 
 To run this project, you need to have Python installed along with the following libraries:
 
