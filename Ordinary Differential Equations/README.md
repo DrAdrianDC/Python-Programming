@@ -16,7 +16,7 @@ with the initial condition:
 
 - **Solving ODEs**: The project uses the `odeint` function from the `scipy.integrate` module to solve the differential equation.
 - **Plotting Results**: The solution of the ODE is visualized using `matplotlib`, showing how the function \( y(t) \) evolves over time.
-- **Expression Extraction**: The project includes functionality to print the differential equation's expression directly from the function definition.
+
 
 ## Installation
 
