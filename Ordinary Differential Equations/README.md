@@ -1,6 +1,6 @@
 # Differential Equation Solver in Python
 
-This project demonstrates how to solve ordinary differential equations (ODEs) using Python. The project includes a Python script that solves a first-order differential equation using the `scipy` library and visualizes the solution with `matplotlib`.
+This simple project demonstrates how to solve ordinary differential equations (ODEs) using Python. The project includes a Python script that solves a first-order differential equation using the `scipy` library and visualizes the solution with `matplotlib`.
 
 ## Problem Statement
 
