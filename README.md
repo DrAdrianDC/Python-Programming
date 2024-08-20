@@ -10,6 +10,8 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Calculator**
 
+.**Ordinary Differential Equations**
+
 .**Root Finding Algorithms**
 
 .**Temperature Converter**
