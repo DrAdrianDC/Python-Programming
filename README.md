@@ -23,3 +23,9 @@ This repository contains a collection of Python projects that demonstrate variou
 ## License
 
 This project is licensed under the terms of the MIT license (See LICENSE.txt)
+
+
+
+---
+
+## **Happy coding!**
