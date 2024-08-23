@@ -1,6 +1,6 @@
 # Python-Programming
 
-This repository contains a collection of Python projects that demonstrate various programming concepts, techniques, and applications.
+This repository contains a collection of Python projects that demonstrate various programming concepts, techniques, and applications. In addition are included some learning notes 
 
 ## Projects:
 
