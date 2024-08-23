@@ -22,7 +22,7 @@ on different Python topics.
 .**Trapezoidal Rule**
 
 
-## Learning Notes
+## Learning Notes (Jupyter Notebooks)
 
 
 Here you will find my Jupyter Notebook notes on various Python topics:
