@@ -1,6 +1,7 @@
 # Python-Programming
 
 This repository contains a collection of Python projects that demonstrate various programming concepts, techniques, and applications. In addition are included some learning notes 
+on different Python topics. 
 
 ## Projects:
 
@@ -24,7 +25,7 @@ This repository contains a collection of Python projects that demonstrate variou
 ## Learning Notes
 
 
-
+Here you will find my Jupyter Notebook notes on various Python topics:
 
 ## License
 
