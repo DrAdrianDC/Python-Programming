@@ -20,9 +20,11 @@ This repository contains a collection of Python projects that demonstrate variou
 
 .**Trapezoidal Rule**
 
+
+
 ## License
 
-This project is licensed under the terms of the MIT license (See LICENSE.txt)
+This repository is licensed under the terms of the MIT license (See LICENSE.txt)
 
 
 
