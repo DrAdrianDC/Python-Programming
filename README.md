@@ -25,7 +25,7 @@ on different Python topics.
 ## Learning Notes (Jupyter Notebooks)
 
 
-Here you will find my Jupyter Notebook notes on various Python topics:
+In Learning-Notebooks folder you will find my Jupyter Notebook notes on various Python topics:
 
 ## License
 
