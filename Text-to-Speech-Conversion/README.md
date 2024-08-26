@@ -4,7 +4,9 @@
 This repository contains a collection of Python programs that demonstrate different approaches to converting text to speech (TTS). These programs showcase how to generate audio from text embedded directly in the code, extract text from a PDF file and convert it to audio, and even translate text from English to Spanish before converting it to audio.
 
 **1.Text in Code to Audio**
+
 This Python code demonstrates how to convert a given text into speech using the gTTS (Google Text-to-Speech) library and then plays the converted audio file.
+
 
 ### Features
 
