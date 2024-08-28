@@ -77,14 +77,17 @@ python text-to-speech.py
 
 ## Requirements
 
- * Python 3.8.3
- * gTTS library
- * Operating system with a command to play audio files (e.g., open for macOS)
+Ensure you have the following Python packages installed:
 
-### Installation
+- `gTTS` (Google Text-to-Speech)
+- `PyPDF2` (for PDF text extraction)
+- `googletrans` (for text translation)
+- Other common packages like `os` and `sys`
 
-To run this code, you need to install the required gTTS library. You can install it using pip:
+You can install the required packages using pip:
+
 ```bash
-pip install gTTS
-```
+pip install gtts PyPDF2 googletrans==4.0.0-rc1
+
+
 
