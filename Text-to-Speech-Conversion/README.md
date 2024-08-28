@@ -34,7 +34,7 @@ Text-to-Speech-Conversion/
 ├── translate_to_audio/
 │   ├── PDF-text-to-speech-with-ES-translation.py
 │   ├── sample.pdf
-│   ├── audio.mp3
+│   ├── translated-audio.mp3
 │   └── README.md 
 └── README.md
 ```
