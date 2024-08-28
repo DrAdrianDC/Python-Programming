@@ -1,7 +1,7 @@
 
+# Embedded Text to Audio
 
-
-**1.- Text in Code to Audio**
+**Text in Code to Audio**
 
 This Python code demonstrates how to convert a given text into speech using the gTTS (Google Text-to-Speech) library and then plays the converted audio file.
 
