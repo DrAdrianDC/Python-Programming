@@ -21,7 +21,7 @@ Each folder contains a Python program that performs a specific text-to-audio con
 
 
 ```plaintext
-root/
+Text-to-Speech-Conversion/
 ├── embedded_text_to_audio/
 │   ├── embedded_text_to_audio.py
 │   └── README.md 
