@@ -29,7 +29,7 @@ Text-to-Speech-Conversion/
 │   ├── PDF-text-to-speech.py
 │   └── README.md 
 ├── translate_to_audio/
-│   ├── translate_to_audio.py
+│   ├── PDF-text-to-speech-with-ES-translation.py
 │   └── README.md 
 └── README.md
 ```
