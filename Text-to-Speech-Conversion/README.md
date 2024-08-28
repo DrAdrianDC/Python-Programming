@@ -24,13 +24,13 @@ Each folder contains a Python program that performs a specific text-to-audio con
 root/
 ├── embedded_text_to_audio/
 │   ├── embedded_text_to_audio.py
-│   └── README.md (optional)
+│   └── README.md 
 ├── pdf_to_audio/
 │   ├── pdf_to_audio.py
-│   └── README.md (optional)
+│   └── README.md 
 ├── translate_to_audio/
 │   ├── translate_to_audio.py
-│   └── README.md (optional)
+│   └── README.md 
 └── README.md
 ```
 
