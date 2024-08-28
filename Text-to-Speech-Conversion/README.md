@@ -19,6 +19,20 @@ This repository contains a collection of Python programs that demonstrate differ
 
 Each folder contains a Python program that performs a specific text-to-audio conversion task.
 
+
+```plaintext
+root/
+├── embedded_text_to_audio/
+│   ├── embedded_text_to_audio.py
+│   └── README.md (optional)
+├── pdf_to_audio/
+│   ├── pdf_to_audio.py
+│   └── README.md (optional)
+├── translate_to_audio/
+│   ├── translate_to_audio.py
+│   └── README.md (optional)
+└── README.md
+
 ## Programs Overview
 
 ### 1. Embedded Text-to-Audio
