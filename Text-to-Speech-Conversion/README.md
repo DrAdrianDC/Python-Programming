@@ -74,17 +74,6 @@ python text-to-speech.py
 **Play the Audio:** The script will automatically play the saved audio file.
 
 
-### Features
-
-* **Text to Speech Conversion:** Converts the provided text into audio using Google Text-to-Speech.
-
-* **Language Support:** Supports multiple languages for conversion.
-
-* **Speed Control:** Option to convert the text to speech at normal speed.
-
-* **Audio Playback:** Automatically plays the converted audio file after saving.
-
-
 
 ## Requirements
 
