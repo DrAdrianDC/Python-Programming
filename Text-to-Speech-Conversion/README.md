@@ -45,6 +45,9 @@ This program first translates English text into Spanish and then converts the tr
 - Translates English text to Spanish.
 - Converts translated text to audio.
 
+
+
+--------------------------------------------
 **1.- Text in Code to Audio**
 
 This Python code demonstrates how to convert a given text into speech using the gTTS (Google Text-to-Speech) library and then plays the converted audio file.
