@@ -32,6 +32,7 @@ root/
 │   ├── translate_to_audio.py
 │   └── README.md (optional)
 └── README.md
+```
 
 ## Programs Overview
 
