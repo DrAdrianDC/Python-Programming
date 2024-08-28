@@ -17,6 +17,34 @@ This repository contains a collection of Python programs that demonstrate differ
 
 ## Project Structure
 
+Each folder contains a Python program that performs a specific text-to-audio conversion task.
+
+## Programs Overview
+
+### 1. Embedded Text-to-Audio
+
+This program generates audio from text that is directly embedded in the Python code. It uses a text-to-speech (TTS) engine to convert the text into spoken words.
+
+**Features:**
+- Simple and straightforward text-to-audio conversion.
+- Ideal for generating audio from predefined texts.
+
+### 2. PDF Text Extraction and Audio Conversion
+
+This program extracts text from a PDF file and then converts it into audio. It can handle multi-page PDFs and convert the extracted text into spoken words.
+
+**Features:**
+- Extracts text from PDF files.
+- Converts extracted text to audio.
+
+### 3. English-to-Spanish Translation and Audio Conversion
+
+This program first translates English text into Spanish and then converts the translated text into audio. It's useful for creating bilingual audio content.
+
+**Features:**
+- Translates English text to Spanish.
+- Converts translated text to audio.
+
 **1.- Text in Code to Audio**
 
 This Python code demonstrates how to convert a given text into speech using the gTTS (Google Text-to-Speech) library and then plays the converted audio file.
