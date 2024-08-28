@@ -28,6 +28,7 @@ Text-to-Speech-Conversion/
 │   └── README.md 
 ├── pdf_to_audio/
 │   ├── PDF-text-to-speech.py
+│   ├── sample.pdf
 │   ├── audio.mp3
 │   └── README.md 
 ├── translate_to_audio/
