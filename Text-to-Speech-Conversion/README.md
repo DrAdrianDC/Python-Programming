@@ -26,7 +26,7 @@ Text-to-Speech-Conversion/
 │   ├── text_to_speech.py
 │   └── README.md 
 ├── pdf_to_audio/
-│   ├── pdf_to_audio.py
+│   ├── PDF-text-to-speech.py
 │   └── README.md 
 ├── translate_to_audio/
 │   ├── translate_to_audio.py
