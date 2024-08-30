@@ -81,4 +81,8 @@ You can install the required packages using pip:
 pip install gtts PyPDF2 googletrans==4.0.0-rc1
 
 
+## Installation
 
+To get started with these programs, follow these steps:
+
+**1-Clone the Repository:** Clone the repository from GitHub to your local machine using the following command:
