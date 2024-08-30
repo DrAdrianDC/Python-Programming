@@ -9,14 +9,14 @@ This program extracts text from a PDF file and then converts it into audio. It c
 ### How to usage
 
 
- **Run the Program**: Execute the code to convert the text to speech and save it as an mp3 file.
+ **Run the Program**: Execute the code to convert the PDF text to speech and save it as an mp3 file.
 ```bash
-./python text-to-speech.py
+./python PDF-text-to-speech.py
 ```
 or
 
 ```bash
-python text-to-speech.py
+python PDF-text-to-speech.py
 ```
 
 **Play the Audio:** The script will automatically play the saved audio file.
