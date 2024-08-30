@@ -5,3 +5,7 @@ This program first translates English text (taken from a PDF file) into Spanish 
 **Features:**
 - Translates English text to Spanish.
 - Converts translated text to audio.
+
+
+### How to usage
+
