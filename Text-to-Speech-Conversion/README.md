@@ -90,4 +90,7 @@ To get started with these programs, follow these steps:
 git clone https://github.com/DrAdrianDC/Python-Programming.git
 ```
 **2-Navigate to the Text-to-Speech Conversion Directory:** Change into the directory containing the text-to-speech conversion programs:
+```bash
+cd Python-Programming/Text-to-Speech-Conversion
+```
 
