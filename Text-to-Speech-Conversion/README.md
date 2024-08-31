@@ -94,3 +94,5 @@ git clone https://github.com/DrAdrianDC/Python-Programming.git
 cd Python-Programming/Text-to-Speech-Conversion
 ```
 
+Once you've completed these steps, you're ready to run the programs in the repository. See the Usage section for details on how to use each script.
+
