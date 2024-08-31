@@ -5,12 +5,12 @@ This Python program demonstrates basic error handling using `try` and `except` b
 ### How to use
  **Run the Program**
 ```bash
-./calculator.py
+./File-Reader.py
 ```
 or
 
 ```bash
-python calculator.py
+python File-Reader.py
 ```
 
 ### Requirements
