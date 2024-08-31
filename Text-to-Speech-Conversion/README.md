@@ -79,7 +79,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install gtts PyPDF2 googletrans==4.0.0-rc1
-
+```
 
 ## Installation
 
