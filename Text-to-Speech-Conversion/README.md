@@ -21,7 +21,7 @@ Each folder contains a Python program that performs a specific text-to-audio con
 
 
 ```plaintext
-Text-to-Speech-Conversion/
+**Text-to-Speech-Conversion/
 ├── embedded_text_to_audio/
 │   ├── text_to_speech.py
 │   ├── audio.mp3
@@ -66,20 +66,6 @@ This program first translates English text into Spanish and then converts the tr
 - Converts translated text to audio.
 
 
-## Requirements
-
-Ensure you have the following Python packages installed:
-
-- `gTTS` (Google Text-to-Speech)
-- `PyPDF2` (for PDF text extraction)
-- `googletrans` (for text translation)
-- Other common packages like `os` and `sys`
-
-You can install the required packages using pip:
-
-```bash
-pip install gtts PyPDF2 googletrans==4.0.0-rc1
-```
 
 ## Installation
 
@@ -95,4 +81,21 @@ cd Python-Programming/Text-to-Speech-Conversion
 ```
 
 Once you've completed these steps, you're ready to run the programs in the repository. See the Usage section for details on how to use each script.
+
+
+## Requirements
+
+Ensure you have the following Python packages installed:
+
+- `gTTS` (Google Text-to-Speech)
+- `PyPDF2` (for PDF text extraction)
+- `googletrans` (for text translation)
+- Other common packages like `os` and `sys`
+
+You can install the required packages using pip:
+
+```bash
+pip install gtts PyPDF2 googletrans==4.0.0-rc1
+```
+
 
