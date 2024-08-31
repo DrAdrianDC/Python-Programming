@@ -86,3 +86,8 @@ pip install gtts PyPDF2 googletrans==4.0.0-rc1
 To get started with these programs, follow these steps:
 
 **1-Clone the Repository:** Clone the repository from GitHub to your local machine using the following command:
+```bash
+git clone https://github.com/DrAdrianDC/Python-Programming.git
+```
+
+
