@@ -11,6 +11,8 @@ on different Python topics.
 
 .**Calculator**
 
+.**File Reader**
+
 .**ODE Solver**
 
 .**Root Finding Algorithms**
