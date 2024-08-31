@@ -21,6 +21,7 @@ or
 ```bash
 python File-Reader.py
 ```
+You will be prompted to enter the name of the file you wish to read. If the file exists and you have the necessary permissions, its content will be displayed in the terminal. If there are any issues (e.g., the file does not exist or you do not have permission), an appropriate error message will be displayed.
 
 ### Requirements
 
