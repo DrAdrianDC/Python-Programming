@@ -13,6 +13,8 @@ on different Python topics.
 
 .**File Reader**
 
+.**Grocery-List-Management**
+
 .**ODE Solver**
 
 .**Root Finding Algorithms**
