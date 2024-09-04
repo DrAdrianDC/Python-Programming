@@ -7,28 +7,28 @@ on different Python topics.
 
 - **Algorithmic Problems**
 
-.**Baseball Analytics**
+- **Baseball Analytics**
 
-.**Calculator**
+- **Calculator**
 
-.**File Reader**
+- **File Reader**
 
-.**Grocery-List-Management**
+- **Grocery-List-Management**
 
-.**ODE Solver**
+- **ODE Solver**
 
-.**Root Finding Algorithms**
+- **Root Finding Algorithms**
 
-.**Temperature Converter**
+- **Temperature Converter**
 
-.**Text to Speech Conversion**
+- **Text to Speech Conversion**
 
-.**Trapezoidal Rule**
+- **Trapezoidal Rule**
 
 
 ## Learning Notes (Jupyter Notebooks)
 
-.**Learning-Notebooks**
+- **Learning-Notebooks**
 
 In **Learning-Notebooks** folder you will find my Jupyter Notebook notes on various Python topics:
 
