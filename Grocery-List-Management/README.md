@@ -18,6 +18,19 @@ The Grocery List Management is a simple command-line tool designed to help you m
 
 - Exit
 
+
+### How to Usage
+
+```bash
+./python Grocery-List-Management.py
+```
+or
+
+```bash
+python Grocery-List-Management.py
+```
+
+
 ### Requirements
 
     Python 3.8.3
