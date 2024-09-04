@@ -8,15 +8,15 @@ The Grocery List Management is a simple command-line tool designed to help you m
 
 ### Features
 
--Add an Item
+- Add an Item
 
--Remove an Item
+- Remove an Item
 
--View Grocery List
+- View Grocery List
 
--Mark an Item as Purchased
+- Mark an Item as Purchased
 
--Exit
+- Exit
 
 ### Requirements
 
