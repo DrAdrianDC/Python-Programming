@@ -1,5 +1,5 @@
 # Grocery List Management
-
+This Python code is inspired by everyday needs for better grocery list management.
 
 ### Overview
 
