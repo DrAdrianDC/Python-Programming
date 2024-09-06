@@ -3,6 +3,7 @@
 
 ### Overview
 
+This project is a simple calculator built with Python using the Tkinter library to create a graphical user interface (GUI). The calculator allows basic arithmetic operations, including addition, subtraction, multiplication, and division, with a clear display to show the result. The GUI consists of digit buttons (0-9), basic operation buttons (+, -, *, /), a "clear" button to reset the display, and an "=" button to calculate the result.
 
 ### Features
 
