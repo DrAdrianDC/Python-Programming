@@ -19,6 +19,8 @@ on different Python topics.
 
 - **ODE Solver**
 
+- - **Password Generator**
+
 - **Root Finding Algorithms**
 
 - **Temperature Converter**
