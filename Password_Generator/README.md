@@ -25,3 +25,8 @@ or
 ```bash
 python password_generator.py
 ```
+
+
+### Requirements
+
+ * Python 3.8.3
