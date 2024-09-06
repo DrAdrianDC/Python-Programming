@@ -8,6 +8,6 @@ The Password Generator is a simple Python code designed to generate a random pas
 
 ### Features
 
-  - Random Password Generation: Generates a secure, random password.
-  - Customizable Length: Password length can be customized (default is 12 characters).
-  - User Interaction: Prompts the user to generate a password or exit the program.
+  - **Random Password Generation:** Generates a secure, random password.
+  - **Customizable Length:** Password length can be customized (default is 12 characters).
+  - **User Interaction:** Prompts the user to generate a password or exit the program.
