@@ -9,6 +9,8 @@ on different Python topics.
 
 - **Baseball Analytics**
 
+- **Calculator-GUI**
+  
 - **Calculator**
 
 - **File Reader**
