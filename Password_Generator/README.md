@@ -16,6 +16,7 @@ The Password Generator is a simple Python code designed to generate a random pas
 ### Usage
 
     Run the script using Python:
+    
 '''
     python password_generator.py
 '''
