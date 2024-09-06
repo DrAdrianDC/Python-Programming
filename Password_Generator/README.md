@@ -12,11 +12,16 @@ The Password Generator is a simple Python code designed to generate a random pas
   - **Customizable Length:** Password length can be customized (default is 12 characters).
   - **User Interaction:** Prompts the user to generate a password or exit the program.
 
-
-### Usage
-
-    Run the script using Python:
     
-'''
-    python password_generator.py
-'''
+### How to Usage
+
+ Run the script using Python:
+ 
+```bash
+./python Grocery-List-Management.py
+```
+or
+
+```bash
+python Grocery-List-Management.py
+```
