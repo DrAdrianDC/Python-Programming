@@ -18,10 +18,10 @@ The Password Generator is a simple Python code designed to generate a random pas
  Run the script using Python:
  
 ```bash
-./python Grocery-List-Management.py
+./python password_generator.py
 ```
 or
 
 ```bash
-python Grocery-List-Management.py
+python password_generator.py
 ```
