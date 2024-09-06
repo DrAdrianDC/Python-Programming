@@ -14,9 +14,13 @@
 ### How to Use
 
    1 - Enter Numbers: Click on the digit buttons (0-9) to input numbers.
+   
    2 - Select an Operation: Use the operation buttons (+, -, *, /) to perform calculations.
+   
    3 - Get the Result: Click the = button to compute and display the result.
+   
    4 - Clear the Display: Use the C button to reset the display for a new calculation.
+   
 
 
 
