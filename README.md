@@ -19,7 +19,7 @@ on different Python topics.
 
 - **ODE Solver**
 
-- - **Password Generator**
+- **Password Generator**
 
 - **Root Finding Algorithms**
 
