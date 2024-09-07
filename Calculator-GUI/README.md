@@ -12,6 +12,8 @@ This project is a simple calculator built with Python using the Tkinter library 
    - **Clear Function:** A button to clear the current input and reset the calculator.
    - **Responsive Display:** Shows current input, operations, and results.
 
+----
+
 ### Using PyInstaller to Create an Executable
 
 PyInstaller is a Python library that can package your script into a standalone executable.
