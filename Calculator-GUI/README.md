@@ -33,7 +33,7 @@ pip install pyinstaller
 pyinstaller --onefile --windowed calculator-gui.py
 ```
 
-
+**4- Find the Executable:** After running the command, PyInstaller will create a dist folder in your script's directory. Inside that folder, you'll find the .exe file (on Windows) or a standalone executable (on macOS or Linux).
 
 ----
 
