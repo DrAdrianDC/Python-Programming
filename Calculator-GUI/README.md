@@ -12,6 +12,11 @@ This project is a simple calculator built with Python using the Tkinter library 
    - **Clear Function:** A button to clear the current input and reset the calculator.
    - **Responsive Display:** Shows current input, operations, and results.
 
+### Using PyInstaller to Create an Executable
+
+
+
+
 ### How to Use
 
    1 - **Enter Numbers:** Click on the digit buttons (0-9) to input numbers.
