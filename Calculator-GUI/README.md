@@ -27,6 +27,13 @@ pip install pyinstaller
 
 **2- Navigate to the Directory of Your Script:** Open a terminal or command prompt and navigate to the folder where your calculator Python script is saved.
 
+**3- Create Executable:** Run the following command in the terminal:
+
+```bash
+pyinstaller --onefile --windowed calculator-gui.py
+```
+
+
 
 
 
