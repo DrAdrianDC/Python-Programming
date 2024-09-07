@@ -18,6 +18,11 @@ PyInstaller is a Python library that can package your script into a standalone e
 Step-by-Step Guide:
 
 **1- Install PyInstaller:** You can install PyInstaller using pip:
+    
+```bash
+pip install pyinstaller
+```
+
 
 
 ### How to Use
