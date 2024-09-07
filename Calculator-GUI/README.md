@@ -14,7 +14,10 @@ This project is a simple calculator built with Python using the Tkinter library 
 
 ### Using PyInstaller to Create an Executable
 
+PyInstaller is a Python library that can package your script into a standalone executable.
+Step-by-Step Guide:
 
+**1- Install PyInstaller:** You can install PyInstaller using pip:
 
 
 ### How to Use
