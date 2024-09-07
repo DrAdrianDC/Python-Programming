@@ -35,7 +35,7 @@ pyinstaller --onefile --windowed calculator-gui.py
 
 
 
-
+----
 
 ### How to Use
 
