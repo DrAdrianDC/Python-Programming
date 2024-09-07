@@ -25,6 +25,9 @@ Step-by-Step Guide:
 pip install pyinstaller
 ```
 
+**2- Navigate to the Directory of Your Script:** Open a terminal or command prompt and navigate to the folder where your calculator Python script is saved.
+
+
 
 
 ### How to Use
