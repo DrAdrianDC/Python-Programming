@@ -1,8 +1,8 @@
-# Algorithmic problems
+# Automating with Python
 
 ## Overview
 
-"This repository is under development for algorithmic problems."
+Python exhibits a remarkable aptitude for handling and automating mundane, iterative, and repetitive tasks, making it more than just a tool—it's an ally!
 
 ## Requirements
 
