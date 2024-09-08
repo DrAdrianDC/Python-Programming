@@ -5,7 +5,7 @@ on different Python topics.
 
 ## Projects:
 
-- **Algorithmic Problems**
+- **Automating with Python**
 
 - **Baseball Analytics**
 
