@@ -77,7 +77,7 @@ Please enter the name of the dataset (with extension, e.g., 'data.csv'): my_data
        
        - Correlation matrix.
        
-    - Plots: Correlation heatmap, histograms, and count plots saved as PNG files.
+   - Plots: Correlation heatmap, histograms, and count plots saved as PNG files.
 
 
 
