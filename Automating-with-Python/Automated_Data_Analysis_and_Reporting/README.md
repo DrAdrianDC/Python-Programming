@@ -20,3 +20,12 @@ This Python script automates the process of loading a dataset, cleaning the data
         - Saves a detailed report of the data cleaning and EDA steps to a text file (data_report.txt).
         - Saves the cleaned dataset as a CSV file (cleaned_<dataset_name>.csv).
         - Generates and saves plots as PNG files.
+
+### Requirements
+
+    Python 3.8.3
+    Required libraries:
+        pandas
+        numpy
+        matplotlib
+        seaborn
