@@ -16,7 +16,7 @@ This Python script automates the process of loading a dataset, cleaning the data
         - Generates a correlation matrix and visualizes it with a heatmap.
         - Creates histograms for numeric columns.
         - Generates count plots for categorical columns.
-  - **Reporting:**
+   - **Reporting:**
         - Saves a detailed report of the data cleaning and EDA steps to a text file (data_report.txt).
         - Saves the cleaned dataset as a CSV file (cleaned_<dataset_name>.csv).
         - Generates and saves plots as PNG files.
