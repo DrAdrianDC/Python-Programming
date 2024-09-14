@@ -47,7 +47,7 @@ pip install pandas numpy matplotlib seaborn
 
 3 - Run the script using a Python environment:
 ```bash
-python <script_name>.py
+python data_cleaning.py
 ```
 
 4 - You will be prompted to input the dataset name (with extension), for example:
