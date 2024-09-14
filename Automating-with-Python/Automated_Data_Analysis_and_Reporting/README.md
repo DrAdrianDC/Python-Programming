@@ -28,6 +28,10 @@ This Python script automates the process of loading a dataset, cleaning the data
 Required libraries:
 
  **pandas**
+ 
  **numpy**
+ 
  **matplotlib**
+ 
  **seaborn**
+ 
