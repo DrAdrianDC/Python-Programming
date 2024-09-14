@@ -36,7 +36,8 @@ Required libraries:
  **seaborn**
 
 You can install the dependencies by running: 
-'''bash
- pip install pandas numpy matplotlib seaborn 
- '''
+```bash
+pip install pandas numpy matplotlib seaborn 
+```
+
 
