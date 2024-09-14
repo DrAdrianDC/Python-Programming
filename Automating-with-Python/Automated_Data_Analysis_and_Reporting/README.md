@@ -66,11 +66,17 @@ Please enter the name of the dataset (with extension, e.g., 'data.csv'): my_data
 6 - After execution, the following outputs will be generated:
 
     - Cleaned Dataset: Saved as cleaned_<dataset_name>.csv.
+    
     - Data Report: A text file named data_report.txt, containing:
+    
        - Basic information about the dataset.
+       
        - Summary statistics.
+       
        - Details of duplicate removal and missing value handling.
+       
        - Correlation matrix.
+       
     - Plots: Correlation heatmap, histograms, and count plots saved as PNG files.
 
 
