@@ -34,4 +34,9 @@ Required libraries:
  **matplotlib**
  
  **seaborn**
- 
+
+You can install the dependencies by running: 
+'''bash
+ pip install pandas numpy matplotlib seaborn 
+ '''
+
