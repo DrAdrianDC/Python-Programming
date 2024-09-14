@@ -42,11 +42,14 @@ pip install pandas numpy matplotlib seaborn
 
 ### How to Use
 1 - Clone this repository or download the script.
+
 2 - Place your dataset (CSV file) in the same directory as the script.
+
 3 - Run the script using a Python environment:
 ```bash
 python <script_name>.py
 ```
+
 4 - You will be prompted to input the dataset name (with extension), for example:
 ```bash
 Please enter the name of the dataset (with extension, e.g., 'data.csv'): my_data.csv
