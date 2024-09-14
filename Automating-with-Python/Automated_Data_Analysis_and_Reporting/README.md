@@ -41,25 +41,24 @@ pip install pandas numpy matplotlib seaborn
 ```
 
 ### How to Use
-
-1- Clone this repository or download the script.
-2- Place your dataset (CSV file) in the same directory as the script.
-3- Run the script using a Python environment:
+1 - Clone this repository or download the script.
+2 - Place your dataset (CSV file) in the same directory as the script.
+3 - Run the script using a Python environment:
 ```bash
 python <script_name>.py
 ```
-4- You will be prompted to input the dataset name (with extension), for example:
+4 - You will be prompted to input the dataset name (with extension), for example:
 ```bash
 Please enter the name of the dataset (with extension, e.g., 'data.csv'): my_data.csv
 ```
 
-5- Follow the on-screen instructions for handling missing values:
+5 - Follow the on-screen instructions for handling missing values:
 
     - Option 1: Drop rows with missing values.
     - Option 2: Fill missing numeric values with the column mean.
     - Option 3: Fill missing categorical values with the most frequent value.
 
-6- After execution, the following outputs will be generated:
+6 - After execution, the following outputs will be generated:
 
     - Cleaned Dataset: Saved as cleaned_<dataset_name>.csv.
     - Data Report: A text file named data_report.txt, containing:
