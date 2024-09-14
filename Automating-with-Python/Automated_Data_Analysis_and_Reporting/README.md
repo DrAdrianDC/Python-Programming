@@ -57,9 +57,11 @@ Please enter the name of the dataset (with extension, e.g., 'data.csv'): my_data
 
 5 - Follow the on-screen instructions for handling missing values:
 
-   -Option 1: Drop rows with missing values.
-   -Option 2: Fill missing numeric values with the column mean.
-   -Option 3: Fill missing categorical values with the most frequent value.
+   - Option 1: Drop rows with missing values.
+     
+   - Option 2: Fill missing numeric values with the column mean.
+     
+   - Option 3: Fill missing categorical values with the most frequent value.
 
 6 - After execution, the following outputs will be generated:
 
