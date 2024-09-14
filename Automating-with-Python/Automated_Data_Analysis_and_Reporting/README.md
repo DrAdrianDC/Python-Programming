@@ -23,9 +23,9 @@ This Python script automates the process of loading a dataset, cleaning the data
 
 ### Requirements
 
-    Python 3.8.3
+    **Python 3.8.3**
     Required libraries:
-        pandas
-        numpy
-        matplotlib
-        seaborn
+        **pandas**
+        **numpy**
+        **matplotlib**
+        **seaborn**
