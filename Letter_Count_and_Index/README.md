@@ -5,8 +5,8 @@ This Python script counts the occurrences of letters in a string and returns the
 
 ## Features
 
- -  Count Occurrences: Counts how many times a specified letter appears in a given word.
- -  Find Index: Finds the first index (position) of the specified letter in the word. If the letter is not found, it returns a message indicating that.
+ -  **Count Occurrences:** Counts how many times a specified letter appears in a given word.
+ -  **Find Index:** Finds the first index (position) of the specified letter in the word. If the letter is not found, it returns a message indicating that.
 
 ## Usage
 
