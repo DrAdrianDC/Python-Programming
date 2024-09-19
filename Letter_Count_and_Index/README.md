@@ -17,5 +17,5 @@ This Python script counts the occurrences of letters in a string and returns the
 
 The script will return the result based on your input:
 
-    If you choose count, it will show how many times the letter appears in the word.
-    If you choose index, it will return the position of the first occurrence of the letter (or a message if the letter is not found).
+If you choose count, it will show how many times the letter appears in the word.
+If you choose index, it will return the position of the first occurrence of the letter (or a message if the letter is not found).
