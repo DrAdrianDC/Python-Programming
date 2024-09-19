@@ -23,3 +23,18 @@ The script will return the result based on your input:
 
 - If you choose count, it will show how many times the letter appears in the word.
 - If you choose index, it will return the position of the first occurrence of the letter (or a message if the letter is not found).
+
+
+ **Run the Program**
+```bash
+./letter_count_and_index.py
+```
+or
+
+```bash
+python letter_count_and_index.py
+```
+
+### Requirements
+
+    Python 3.8.3
