@@ -10,10 +10,10 @@ This Python script counts the occurrences of letters in a string and returns the
 
 ## Usage
 
-1-  Run the script.
-2-   Enter a word when prompted.
-3-    Enter the letter you wish to either count or find.
-4-    Choose the action: count or index.
+ 1-  Run the script.
+ 2-  Enter a word when prompted.
+ 3-  Enter the letter you wish to either count or find.
+ 4-  Choose the action: count or index.
 
 The script will return the result based on your input:
 
