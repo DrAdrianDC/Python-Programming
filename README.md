@@ -13,6 +13,8 @@ These projects cover essential topics such as algorithms, data structures, objec
   
 - **Calculator**
 
+- - **Chemistry using Python**
+
 - **File Reader**
 
 - **Grocery-List-Management**
