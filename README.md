@@ -13,7 +13,7 @@ These projects cover essential topics such as algorithms, data structures, objec
   
 - **Calculator**
 
-- - **Distance between two locations**
+- **Distance between two locations**
 
 - **File Reader**
 
