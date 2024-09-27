@@ -23,7 +23,7 @@ $$
 
 Where:
 - $$
-  \( \phi_1 \)
+  \phi_1 
   $$
   and \( \phi_2 \) are the latitudes of the two locations in radians,
 - \( \Delta \phi \) is the difference between the latitudes: \( \phi_2 - \phi_1 \),
