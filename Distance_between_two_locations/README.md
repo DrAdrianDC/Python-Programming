@@ -23,7 +23,7 @@ $$
 
 Where:
 - $\phi_1$ and $\phi_2$ are the latitudes of the two locations in radians.
-- ( $\Delta \phi $) is the difference between the latitudes: ( $\phi_2 - \phi_1$),
-- \( \Delta \lambda \) is the difference between the longitudes: \( \lambda_2 - \lambda_1 \),
+- ( $\Delta \phi $) is the difference between the latitudes: ($\phi_2 - \phi_1$),
+- ( $\Delta \lambda $) is the difference between the longitudes: ($\lambda_2 - \lambda_1$),
 - \( R \) is the Earth's radius (mean radius = 6,371 km),
 - \( d \) is the distance between the two points along the surface of the sphere (in kilometers).
