@@ -10,7 +10,7 @@ This project demonstrates how to calculate the distance between two geographic l
 The Haversine formula calculates the great-circle distance between two points on a sphere given their longitudes and latitudes:
 
 $$
-d = 2 R \sqrt{\sin^2\left(\frac{\Delta \phi}{2}\right) + \cos(\phi_1) \cdot \cos(\phi_2) \cdot \sin^2\left(\frac{\Delta \lambda}{2}\right)}
+d = 2 \cdot R \cdot \arcsin (\sqrt{\sin^2\left(\frac{\Delta \phi}{2}\right) + \cos(\phi_1) \cdot \cos(\phi_2) \cdot \sin^2\left(\frac{\Delta \lambda}{2}\right)})
 $$
 
 
