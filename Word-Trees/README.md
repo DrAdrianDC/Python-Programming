@@ -19,4 +19,13 @@ You can install the required packages using pip:
 
 ```bash
 pip install matplotlib wordcloud
+```
 
+## How to Use
+1- Clone or download the script.
+
+2- Run the script and input the name of the chemical compound you want information about.
+```bash
+python word-trees.py
+```
+3- Enter the phrased, and the script will display and save as a figure the word tree. 
