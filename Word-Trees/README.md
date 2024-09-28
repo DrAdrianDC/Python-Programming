@@ -1,6 +1,6 @@
 # Word Trees using Python
 
-This repository contains a Python script that generates a word cloud visualization from user-provided text. Word clouds are a popular way to visualize the frequency of words in a text, where more frequently occurring words appear larger than others.
+This repository contains a Python script that generates a word cloud visualization from user-provided text. Word clouds are a popular way to visualize the frequency of words in a text, where more frequently occurring words appear larger than others. In practice, word trees serve as effective visual aids in presentations, helping to emphasize key points and engage the audience.
 
 ## Features
 
