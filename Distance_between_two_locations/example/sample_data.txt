@@ -1,0 +1,27 @@
+
+The following example calculates the distance between Big Ben in London and The Statue of Liberty in New York
+
+Coordinates:
+
+Big Ben                ( 51.5007° N, 0.1246° W )
+
+The Statue of Liberty  ( 40.6892° N, 74.0445° W )
+
+
+                                    Input
+------------------------------------------------------------------------------------
+
+Enter the value in degrees for the latitude of the first location: 51.5007
+
+Enter the value in degrees for the latitude of the second location: 40.6892
+
+Enter the value in degrees for the longitude of the first location: 0.1246
+
+Enter the value in degrees for the longitude of the second location: 74.0445
+
+
+
+
+                                    Output
+------------------------------------------------------------------------------------
+The distance between the two locations is 5574.84 km
