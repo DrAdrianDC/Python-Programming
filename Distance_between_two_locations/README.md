@@ -20,3 +20,13 @@ Where:
 - ( $\Delta \lambda $) is the difference between the longitudes: ($\lambda_2 - \lambda_1$),
 - \( R \) is the Earth's radius (mean radius = 6,371 km),
 - \( d \) is the distance between the two points along the surface of the sphere (in kilometers).
+
+
+## How to Use
+1- Clone or download the script.
+
+2- Run the script and input the name of the chemical compound you want information about.
+```bash
+python haversine.py
+```
+3- Enter by keyboard the requiered input data . 
