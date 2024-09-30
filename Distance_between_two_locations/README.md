@@ -22,6 +22,20 @@ Where:
 - \( d \) is the distance between the two points along the surface of the sphere (in kilometers).
 
 
+## Requirements
+
+* Python 3.8.3
+To run this code, you'll need the following Python packages:
+
+- `numpy`
+
+You can install the required packages using pip:
+
+```bash
+pip install numpy
+```
+
+
 ## How to Use
 1- Clone or download the script.
 
