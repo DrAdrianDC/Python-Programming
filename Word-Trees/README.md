@@ -10,6 +10,7 @@ This repository contains a Python script that generates a word cloud visualizati
 
 ## Requirements
 
+* Python 3.8.3
 To run this code, you'll need the following Python packages:
 
 - `matplotlib`
