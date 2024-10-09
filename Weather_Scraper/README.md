@@ -36,6 +36,7 @@ pip install beautifulsoup4
 3- Install the required libraries using the commands listed in the "Requirements" section.
 
 4- Run the script using the command:
+
      ```bash
       python weather_scraper.py
      ```
