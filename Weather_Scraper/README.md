@@ -47,5 +47,16 @@ Enter City Name: New York
 Enter Country Name: USA
  ```
 
+6- The script will then output the current temperature and weather condition, if available. Example output:
+
+```bash
+Weather in New York:
+Temperature: 15°C
+Condition: Clear sky
+
+ ```
+
+
+
      
 
