@@ -27,16 +27,18 @@ pip install requests
 pip install beautifulsoup4
 ```
 
-How to Use
+## How to Use
 
-    Clone or download this repository to your local machine.
+1- Clone or download this repository to your local machine.
 
-    Ensure you have Python installed (version 3.8.3 is used here).
+2- Ensure you have Python installed (version 3.8.3 is used here).
 
-    Install the required libraries using the commands listed in the "Requirements" section.
+3- Install the required libraries using the commands listed in the "Requirements" section.
 
-    Run the script using the command:
+4- Run the script using the command:
      ```bash
       python weather_scraper.py
      ```
+
+     
 
