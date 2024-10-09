@@ -22,3 +22,9 @@ The script uses the following Python libraries:
 
 You can install the required libraries using the following commands:
 
+```bash
+pip install requests
+pip install beautifulsoup4
+```
+
+
