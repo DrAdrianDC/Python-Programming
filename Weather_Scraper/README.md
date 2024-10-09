@@ -41,8 +41,11 @@ pip install beautifulsoup4
       python weather_scraper.py
   ```
 5- When prompted, input the city and country name. For example:
+
+```bash
 Enter City Name: New York
 Enter Country Name: USA
+ ```
 
      
 
