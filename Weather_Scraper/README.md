@@ -64,5 +64,10 @@ Please check the city name and try again
  ```
 
 
-     
+## Limitations
+
+* The script relies on the structure of website used. If the website changes its layout or URL structure, the script may no longer work correctly.
+  
+* Only works for cities and countries available on the Time and Date weather section.
+
 
