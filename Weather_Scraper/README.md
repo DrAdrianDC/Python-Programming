@@ -53,9 +53,15 @@ Enter Country Name: USA
 Weather in New York:
 Temperature: 15°C
 Condition: Clear sky
-
  ```
 
+## Error Handling
+
+If the city or country name is entered incorrectly or if the data cannot be found, the script will return the following message:
+
+```bash
+Please check the city name and try again
+ ```
 
 
      
