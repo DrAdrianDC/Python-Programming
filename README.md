@@ -37,6 +37,8 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 - **Trapezoidal Rule**
 
+- - **Weather Scraper**
+
 - **Word Trees**
 
 
