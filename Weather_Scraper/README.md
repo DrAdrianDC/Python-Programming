@@ -36,7 +36,7 @@ How to Use
     Install the required libraries using the commands listed in the "Requirements" section.
 
     Run the script using the command:
-```bash
-python weather_scraper.py
-```
+     ```bash
+      python weather_scraper.py
+     ```
 
