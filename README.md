@@ -17,6 +17,8 @@ These projects cover essential topics such as algorithms, data structures, objec
   
 - **Calculator**
 
+- **Convert_Audio_to_Text**
+
 - **Distance between two locations**
 
 - **File Reader**
