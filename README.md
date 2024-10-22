@@ -29,6 +29,8 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 - **Password Generator**
 
+- **Plotting using Python**
+
 - **Root Finding Algorithms**
 
 - **Temperature Converter**
