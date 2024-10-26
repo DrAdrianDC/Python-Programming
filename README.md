@@ -7,7 +7,7 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 
 
-## Projects:
+## List of projects:
 
 - **Automating with Python**
 
