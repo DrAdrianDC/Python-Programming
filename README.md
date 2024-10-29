@@ -24,6 +24,8 @@ These projects cover essential topics such as algorithms, data structures, objec
 - **Grocery-List-Management**
 
 - **Letter Count and Index**
+
+- **Matrix Determinant**
   
 - **ODE Solver**
 
