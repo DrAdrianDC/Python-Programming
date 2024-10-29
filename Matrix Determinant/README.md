@@ -14,9 +14,7 @@ This Python script allows users to input a square matrix and calculates its dete
 - NumPy library
 
 ## Installation
-
-1. Ensure you have Python installed on your machine.
-2. Install NumPy if you haven't already:
+Install NumPy if you haven't already:
    ```bash
    pip install numpy
    ```
