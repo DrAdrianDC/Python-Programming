@@ -6,9 +6,9 @@ This project allows users to generate a QR code from any given link using Python
 
 To run this code, ensure you have Python installed and the following libraries:
 
-    pyqrcode – for generating QR codes
-    pypng – for saving the QR code as a PNG file
-    Pillow (PIL) – for displaying the saved QR code image
+**pyqrcode** – for generating QR codes
+**pypng** – for saving the QR code as a PNG file
+**Pillow (PIL)** – for displaying the saved QR code image
 
 Install the dependencies by running:  
 
