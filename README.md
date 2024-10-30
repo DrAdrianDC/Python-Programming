@@ -33,6 +33,8 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 - **Plotting using Python**
 
+- **QR Code Generation**
+
 - **Root Finding Algorithms**
 
 - **Temperature Converter**
