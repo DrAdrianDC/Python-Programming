@@ -19,6 +19,6 @@ Install the dependencies by running:
 ## Usage
 
 ```bash
-   python qr_code_generator.py
+   python QR_Code_generator.py
    ```
-python qr_code_generator.py
+
