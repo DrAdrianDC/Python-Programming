@@ -26,6 +26,8 @@ These projects cover essential topics such as algorithms, data structures, objec
 - **Letter Count and Index**
 
 - **Matrix Determinant**
+
+- **Monte Carlo Dice Simulation**
   
 - **ODE Solver**
 
