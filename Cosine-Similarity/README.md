@@ -11,6 +11,6 @@ Cosine Similarity is a **simple mathematical concept and easy to implement compu
 
 
 ### How to Use 
-'''bash
+
 python cosine_similarity.py
-'''
+
