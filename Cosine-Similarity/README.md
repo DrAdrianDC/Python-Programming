@@ -13,9 +13,9 @@ The program allows users to input two vectors and computes their cosine similari
 Cosine Similarity = (A · B) / (||A|| * ||B||)
 ```
 
-```bash
-\text{Cosine Similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}
-```
+||A|| and ||B|| are the Euclidean norms (magnitudes) of the vectors, calculated as:
+
+
 
 Cosine Similarity is a **simple mathematical concept and easy to implement computationally**, making it highly practical for real-world implementations.
 
