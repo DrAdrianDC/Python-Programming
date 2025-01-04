@@ -10,7 +10,7 @@ The program allows users to input two vectors and computes their cosine similari
 **Mathematical Formula**
 
 
-![cosine-similarity](https://github.com/user-attachments/assets/8579fde6-b703-4c0d-aa45-7fd8b737b160)
+![cosine-similarity](https://github.com/user-attachments/assets/8579fde6-b703-4c0d-aa45-7fd8b737b160 =500x500)
 
 
 
