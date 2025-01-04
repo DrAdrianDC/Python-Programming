@@ -10,9 +10,9 @@ The program allows users to input two vectors and computes their cosine similari
 **Mathematical Formula**
 
 The cosine similarity between two vectors A and B is defined as:
-
+$$
 \text{Cosine Similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}
-
+$$
 
 
 Cosine Similarity is a **simple mathematical concept and easy to implement computationally**, making it highly practical for real-world implementations.
