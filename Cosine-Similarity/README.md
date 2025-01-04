@@ -9,7 +9,7 @@ The program allows users to input two vectors and computes their cosine similari
 
 **Mathematical Formula**
 
-<img src="https://github.com/user-attachments/assets/8579fde6-b703-4c0d-aa45-7fd8b737b160" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/8579fde6-b703-4c0d-aa45-7fd8b737b160" width="400">
 
 
 ||A|| and ||B|| are the Euclidean norms (magnitudes) of the vectors, calculated as:
