@@ -4,8 +4,6 @@ This Python program calculates the cosine similarity between two vectors. Cosine
 
 The program allows users to input two vectors and computes their cosine similarity, which is a value between -1 and 1. A similarity of 1 indicates identical vectors, while -1 indicates completely opposite vectors. A similarity of 0 indicates the vectors are orthogonal (i.e., they have no correlation and are at a 90-degree angle to each other).
 
-### Overview
-
 
 **Mathematical Formula**
 
