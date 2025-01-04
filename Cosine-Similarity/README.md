@@ -13,9 +13,16 @@ The program allows users to input two vectors and computes their cosine similari
 Cosine Similarity = (A · B) / (||A|| * ||B||)
 ```
 
+```bash
+A · B = Σ (Ai * Bi) for i = 1 to n
+```
+
 ||A|| and ||B|| are the Euclidean norms (magnitudes) of the vectors, calculated as:
 
-
+```bash
+||A|| = sqrt(A1^2 + A2^2 + ... + An^2)
+||B|| = sqrt(B1^2 + B2^2 + ... + Bn^2)
+```
 
 Cosine Similarity is a **simple mathematical concept and easy to implement computationally**, making it highly practical for real-world implementations.
 
