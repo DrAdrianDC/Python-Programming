@@ -9,7 +9,9 @@ The program allows users to input two vectors and computes their cosine similari
 
 **Mathematical Formula**
 
-
+```bash
+Cosine Similarity = (A · B) / (||A|| * ||B||)
+```
 
 Cosine Similarity is a **simple mathematical concept and easy to implement computationally**, making it highly practical for real-world implementations.
 
