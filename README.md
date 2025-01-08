@@ -52,7 +52,7 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 ## License
 
-This repository is licensed under the terms of the **MIT license** (See LICENSE.txt)
+This repository is licensed under the terms of the **MIT License** (See LICENSE.txt)
 
 
 
