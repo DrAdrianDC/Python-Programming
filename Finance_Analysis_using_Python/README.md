@@ -6,5 +6,5 @@ In this folder you will find a variety of Python scripts related to the **stock 
 
 - [Overview](#Overview)
   - [1. Stock correlation](#1-Stock-correlation)
-  - [2. Apple Stock Market Prediction](#2-Apple-Stock-Market-Prediction)
+  - [2. Stock daily returns](#2-Stock-daily-returns)
  
