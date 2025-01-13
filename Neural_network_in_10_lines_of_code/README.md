@@ -15,5 +15,5 @@ In just 10 lines of Python code you can create and train a neural network model 
 ## How to Run
 
 ```bash
-python cosine_similarity.py
+python neural_network_in_10_lines_of_code.py
 ```
