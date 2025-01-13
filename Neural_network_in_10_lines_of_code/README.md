@@ -4,9 +4,9 @@ In just 10 lines of Python code you can create and train a neural network model 
 
 ## Features
 
-   - Dataset: MNIST handwritten digits.
-   - Architecture: Simple neural network with:
+   - **Dataset**: MNIST handwritten digits.
+   - **Architecture**: Simple neural network with:
         One hidden layer (10 neurons, tanh activation).
         Output layer with softmax activation for classification.
-   - Optimizer: Stochastic Gradient Descent (SGD).
-   - Loss Function: Categorical Crossentropy.
+   - **Optimizer**: Stochastic Gradient Descent (SGD).
+   - **Loss Function**: Categorical Crossentropy.
