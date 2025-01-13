@@ -10,3 +10,10 @@ In just 10 lines of Python code you can create and train a neural network model 
         **Output layer** with **softmax activation** for classification.
    - **Optimizer**: Stochastic Gradient Descent (SGD).
    - **Loss Function**: Categorical Crossentropy.
+
+
+## How to Run
+
+```bash
+python cosine_similarity.py
+```
