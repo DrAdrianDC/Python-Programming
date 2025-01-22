@@ -8,5 +8,5 @@ This topic is important for Performance Optimization, Cost Efficiency, Scalabili
 ### How to use
 
 ```bash
-python calculator.py
+python execution_time_of_a_Python_code.py
 ```
