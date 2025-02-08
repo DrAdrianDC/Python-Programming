@@ -36,7 +36,7 @@ This repository analyzes **Google Trends** data for various AI-related search te
 
 ### Usage 📌
 
-Run the Jupyter Notebook:
+Run the Python code:
 
 
 ```bash
