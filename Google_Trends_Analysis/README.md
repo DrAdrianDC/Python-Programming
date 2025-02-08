@@ -34,4 +34,6 @@ This repository analyzes Google Trends data for various AI-related search terms,
 📈 A time-series plot of search interest over the past 12 months.
 
 
+### Usage 📌
 
+Run the Jupyter Notebook:
