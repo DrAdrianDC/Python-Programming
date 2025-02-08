@@ -40,5 +40,5 @@ Run the Jupyter Notebook:
 
 
 ```bash
-jupyter notebook Data_Extraction_from_Google_Trends_with_Pytrends.ipynb
+python Data_Extraction_from_Google_Trends_with_Pytrends.py
 ```
