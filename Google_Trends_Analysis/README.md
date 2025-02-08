@@ -17,3 +17,9 @@ This repository analyzes Google Trends data for various AI-related search terms,
 
 
 
+### Features 🚀
+
+    Fetches Google Trends data using pytrends.
+    Visualizes trends with Matplotlib & Seaborn.
+    Exports data to CSV for further analysis.
+    Saves plots for easy sharing.
