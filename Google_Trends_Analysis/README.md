@@ -3,7 +3,7 @@
 
 ### Data Extraction from Google Trends with Pytrends
 
-This repository analyzes Google Trends data for various AI-related search terms, including:
+This repository analyzes **Google Trends** data for various AI-related search terms, including:
 
 ✅ Artificial Intelligence
 
