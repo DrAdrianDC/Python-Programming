@@ -22,3 +22,8 @@ Install the required Python packages:
 pip install pandas openpyxl
 ```
 
+## Usage
+
+Run the script:
+
+python excel_with_python.py
