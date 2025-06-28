@@ -26,4 +26,7 @@ pip install pandas openpyxl
 
 Run the script:
 
+```bash
 python excel_with_python.py
+```
+
