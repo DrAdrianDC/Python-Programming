@@ -12,5 +12,5 @@ A simple interactive web app built with Streamlit that converts temperatures bet
 ## How to Run
 
 ```bash
-streamlit run temperature_converter-streamlit.py
+streamlit run temperature_converter_streamlit_app.py
 ```
