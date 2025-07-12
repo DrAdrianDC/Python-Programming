@@ -4,7 +4,7 @@ A simple interactive web app built with Streamlit that converts temperatures bet
 
 ## Features
 
-- Convert Celsius to Fahrenheit and vice versa.
+- Convert Celsius to Fahrenheit and Fahrenheit to Celsius.
 - Keeps a history of all conversions during the session.
 - View conversion history in a dynamic table.
 - Download conversion history as a CSV file.
