@@ -9,3 +9,8 @@ A simple interactive web app built with Streamlit that converts temperatures bet
 - View conversion history in a dynamic table.
 - Download conversion history as a CSV file.
 
+## How to Run
+
+```bash
+streamlit run temperature_converter-streamlit.py
+```
