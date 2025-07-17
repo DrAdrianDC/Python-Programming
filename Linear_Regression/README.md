@@ -16,3 +16,9 @@ Install requirements using:
 ```bash
 pip install scikit-learn matplotlib
 ```
+
+## How to Run
+
+```bash
+python linear_regression.py
+```
