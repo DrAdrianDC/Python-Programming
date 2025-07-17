@@ -7,48 +7,6 @@ These projects cover essential topics such as algorithms, data structures, objec
 
 
 
-## List of projects:
-
-- **Automating with Python**
-
-- **Baseball Analytics**
-
-- **Calculator-GUI**
-  
-- **Calculator**
-
-- **Distance between two locations**
-
-- **File Reader**
-
-- **Grocery-List-Management**
-
-- **Letter Count and Index**
-
-- **Matrix Determinant**
-
-- **Monte Carlo Dice Simulation**
-  
-- **ODE Solver**
-
-- **Password Generator**
-
-- **Plotting using Python**
-
-- **QR Code Generation**
-
-- **Root Finding Algorithms**
-
-- **Temperature Converter**
-
-- **Text to Speech Conversion**
-
-- **Trapezoidal Rule**
-
-- **Weather Scraper**
-
-- **Word Trees**
-
 
 ## License
 
