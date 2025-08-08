@@ -1,0 +1,10 @@
+
+Python 3.7+
+pandas
+numpy
+streamlit
+sweetviz
+seaborn
+matplotlib
+openpyxl
+fpdf
