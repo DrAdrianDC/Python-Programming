@@ -1,0 +1,11 @@
+date,product,category,sales,customers,visits
+2025-10-01,Laptop,Technology,12000,25,200
+2025-10-01,Smartphone,Technology,8000,30,180
+2025-10-01,T-Shirt,Clothing,3000,50,150
+2025-10-02,Shoes,Clothing,4500,35,120
+2025-10-02,Headphones,Technology,5000,20,100
+2025-10-03,Laptop,Technology,15000,40,220
+2025-10-03,T-Shirt,Clothing,3500,45,160
+2025-10-03,Socks,Clothing,1200,25,100
+2025-10-04,Smartphone,Technology,9000,28,190
+2025-10-04,Shoes,Clothing,4800,32,140
