@@ -19,3 +19,17 @@ The dashboard allows you to:
 - Explore detailed transaction data through an interactive table.
 
 It’s ideal for projects related to **Data Analytics, Business Intelligence**, or as a showcase for real-time data visualization with Streamlit.
+
+
+
+## Possible Extensions
+
+- Connect to a real-time database (e.g., SQLite or PostgreSQL).
+
+- Add more visualization types (line charts, pie charts, heatmaps).
+
+- Integrate machine learning models for sales forecasting.
+
+- Deploy the app on the cloud using Streamlit Cloud or Render.
+
+  
