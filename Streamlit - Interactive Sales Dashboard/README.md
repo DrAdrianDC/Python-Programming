@@ -18,4 +18,4 @@ The dashboard allows you to:
 
 - Explore detailed transaction data through an interactive table.
 
-It’s ideal for projects related to Data Analytics, Business Intelligence, or as a showcase for real-time data visualization with Streamlit.
+It’s ideal for projects related to **Data Analytics, Business Intelligence**, or as a showcase for real-time data visualization with Streamlit.
