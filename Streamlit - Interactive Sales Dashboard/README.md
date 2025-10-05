@@ -32,4 +32,20 @@ It’s ideal for projects related to **Data Analytics, Business Intelligence**, 
 
 - Deploy the app on the cloud using Streamlit Cloud or Render.
 
+
+
+  ## Run the Streamlit app
+
+  1- Clone the repository
+
   
+
+  2- Install the dependencies
+
+  
+
+  3- Run the Streamlit app
+
+  streamlit run dashboard_ventas.py
+
+
