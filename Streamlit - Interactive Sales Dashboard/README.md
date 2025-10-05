@@ -7,6 +7,7 @@ It includes dynamic filters, interactive **Plotly** visualizations, key performa
 ## Overview
 
 This project demonstrates how to build a **modern, interactive data analytics dashboard** using Python tools.
+
 The dashboard allows you to:
 
 - Filter data by date and product category.
