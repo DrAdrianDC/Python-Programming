@@ -42,6 +42,9 @@ It’s ideal for projects related to **Data Analytics, Business Intelligence**, 
   
   3- Run the Streamlit app
 
-  streamlit run Sales-Streamlit-app.py
+  ```bash
+streamlit run  Sales-Streamlit-app.py
+```
+  
 
 
