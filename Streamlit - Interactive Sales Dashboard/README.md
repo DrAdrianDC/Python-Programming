@@ -34,7 +34,7 @@ It’s ideal for projects related to **Data Analytics, Business Intelligence**, 
 
 
 
-  ## Run the Streamlit app
+## Run the Streamlit app
 
   1- Clone the repository
   
