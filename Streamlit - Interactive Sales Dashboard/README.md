@@ -37,7 +37,9 @@ It’s ideal for projects related to **Data Analytics, Business Intelligence**, 
   ## Run the Streamlit app
 
   1- Clone the repository
+  
   2- Install the dependencies
+  
   3- Run the Streamlit app
 
   streamlit run Sales-Streamlit-app.py
