@@ -2,3 +2,19 @@
 
 An **interactive dashboard** built with **Python** and **Streamlit** to visualize and analyze real-time sales data.
 It includes dynamic filters, interactive **Plotly** visualizations, key performance metrics, and a responsive data table.
+
+
+## Overview
+
+This project demonstrates how to build a modern, interactive data analytics dashboard using Python tools.
+The dashboard allows you to:
+
+Filter data by date and product category.
+
+Visualize sales trends using interactive Plotly charts.
+
+Display dynamic metrics such as total sales, total customers, and conversion rate.
+
+Explore detailed transaction data through an interactive table.
+
+It’s ideal for projects related to Data Analytics, Business Intelligence, or as a showcase for real-time data visualization with Streamlit.
