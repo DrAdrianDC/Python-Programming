@@ -14,9 +14,10 @@ Bayesian Optimization is a powerful method for optimizing expensive or unknown f
 
 In this example, we minimize the function:
 
-\[
+$$
 f(x_1, x_2) = (x_1 - 2)^2 + (x_2 - 3)^2
-\]
+$$
+
 
 The true minimum is at **(x₁, x₂) = (2, 3)** with **f(x₁, x₂) = 0**, and the goal of Bayesian Optimization is to find this point efficiently.
 
