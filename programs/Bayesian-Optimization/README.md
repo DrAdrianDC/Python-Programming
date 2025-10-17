@@ -26,3 +26,8 @@ The true minimum is at **(x₁, x₂) = (2, 3)** with **f(x₁, x₂) = 0**, and
 Install the dependencies using:
 
 pip install numpy scikit-optimize matplotlib
+
+
+### How to Run
+
+
