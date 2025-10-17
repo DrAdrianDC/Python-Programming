@@ -33,6 +33,9 @@ pip install numpy scikit-optimize matplotlib
 
 ### How to Run
 
+1- Clone the repository or copy the code into a Python file (e.g., bayesian_optimization.py).
+
+2- Run the script:
 ```bash
 python bayesian_optimization.py
 ```
