@@ -39,3 +39,4 @@ pip install numpy scikit-optimize matplotlib
 ```bash
 python bayesian_optimization.py
 ```
+3- Observe the printed optimal parameters and the convergence plot.
