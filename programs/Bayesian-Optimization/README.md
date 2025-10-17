@@ -33,4 +33,6 @@ pip install numpy scikit-optimize matplotlib
 
 ### How to Run
 
-
+```bash
+python bayesian_optimization.py
+```
