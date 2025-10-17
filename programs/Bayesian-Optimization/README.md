@@ -40,3 +40,9 @@ pip install numpy scikit-optimize matplotlib
 python bayesian_optimization.py
 ```
 3- Observe the printed optimal parameters and the convergence plot.
+
+
+### Why Bayesian Optimization?
+
+Unlike grid search or random search, which sample the parameter space blindly, Bayesian Optimization builds a probabilistic model of the objective function and uses it to choose the most promising regions to explore next.
+This makes it ideal for problems where each evaluation is costly (e.g., training deep learning models or running physical experiments).
