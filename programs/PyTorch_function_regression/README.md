@@ -35,7 +35,8 @@ PyTorch_function_regression/
 
 Install the required dependencies:
 ```bash
-pip install torch matplotlib numpy
+pip install -r requirements.txt
+
 ```
 ---
 
