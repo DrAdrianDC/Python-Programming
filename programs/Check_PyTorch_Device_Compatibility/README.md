@@ -1,5 +1,5 @@
 # Check PyTorch Device
-A small Python project to automatically detect which hardware backend PyTorch will use on your system:
+A small Python script to automatically detect which hardware backend PyTorch will use on your system:
 
 - ✅ CUDA (NVIDIA GPU)
 - ✅ MPS (Apple Silicon GPU)
