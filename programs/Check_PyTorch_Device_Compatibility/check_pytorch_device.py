@@ -7,7 +7,7 @@ A simple script to check what hardware backend PyTorch is using:
 - MPS (Apple Silicon GPU)
 - CPU (default fallback)
 
-Author: Adrian Dominguez Castro
+Author: Dr. Adrian Dominguez Castro
 """
 
 import torch
