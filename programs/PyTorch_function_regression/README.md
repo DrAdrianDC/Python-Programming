@@ -29,6 +29,7 @@ PyTorch_function_regression/
 ├─ requirements.txt
 └─ README.md
 ```
+---
 
 ## Requirements
 
