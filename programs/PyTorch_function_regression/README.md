@@ -25,7 +25,7 @@ It demonstrates how PyTorch can be used for regression tasks, showing concepts s
 
 ``` bash
 PyTorch_function_regression/
-├─ regression.py
+├─ pytorch-function-regression.py
 ├─ requirements.txt
 └─ README.md
 ```
