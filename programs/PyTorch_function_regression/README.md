@@ -38,6 +38,7 @@ pip install torch matplotlib numpy
 ```
 
 
+## Usage
 
 Run the Project
 To train the model, simply run:
