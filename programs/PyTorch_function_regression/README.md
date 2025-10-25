@@ -37,7 +37,7 @@ Install the required dependencies:
 ```bash
 pip install torch matplotlib numpy
 ```
-
+---
 
 ## Usage
 
