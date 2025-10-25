@@ -8,9 +8,9 @@ This project trains a simple neural network to **approximate a nonlinear mathema
 
 The model learns to fit the following function:
 
-\[
+$$
 y = \sin(x) + 0.3x + \text{noise}
-\]
+$$
 
 It demonstrates how PyTorch can be used for regression tasks, showing concepts such as:
 - Dataset creation and data splitting  
