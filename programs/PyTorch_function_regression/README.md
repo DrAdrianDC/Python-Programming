@@ -29,3 +29,10 @@ pip install torch matplotlib numpy
 
 
 
+Run the Project
+To train the model, simply run:
+
+```bash
+python pytorch-function-regression.py
+```
+
