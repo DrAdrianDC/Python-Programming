@@ -1,5 +1,4 @@
-# PyTorch Device Checker
-
+# Check PyTorch Device
 A small Python project to automatically detect which hardware backend PyTorch will use on your system:
 
 - ✅ CUDA (NVIDIA GPU)
