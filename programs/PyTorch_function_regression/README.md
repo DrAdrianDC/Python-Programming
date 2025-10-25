@@ -19,3 +19,13 @@ It demonstrates how PyTorch can be used for regression tasks, showing concepts s
 - Loss tracking and visualization  
 
 ---
+
+## Requirements
+
+Install the required dependencies:
+```bash
+pip install torch matplotlib numpy
+```
+
+
+
