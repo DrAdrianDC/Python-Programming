@@ -20,26 +20,26 @@ def check_device():
     # Check for CUDA (NVIDIA)
     if torch.cuda.is_available():
         device = torch.device("cuda")
-        print(f"✅ CUDA is available!")
+        print(f"CUDA is available!")
         print(f"Using GPU: {torch.cuda.get_device_name(0)}")
     
     # Check for MPS (Apple Silicon)
     elif torch.backends.mps.is_available():
         device = torch.device("mps")
-        print("✅ MPS (Metal Performance Shaders) is available on this Mac!")
+        print("MPS (Metal Performance Shaders) is available on this Mac!")
         print("Using Apple Silicon GPU via MPS backend.")
     
     # Default to CPU
     else:
         device = torch.device("cpu")
-        print("⚙️ Running on CPU (no GPU backend available).")
+        print("Running on CPU (no GPU backend available).")
     
     print(f"\nCurrent PyTorch device: {device}")
     return device
 
 
 if __name__ == "__main__":
-    print("🔍 Checking PyTorch device compatibility...\n")
+    print("Checking PyTorch device compatibility...\n")
     device = check_device()
-    print("\nDone ✅")
+    print("\nDone ")
 
