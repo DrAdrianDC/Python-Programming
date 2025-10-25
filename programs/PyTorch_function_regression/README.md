@@ -20,6 +20,15 @@ It demonstrates how PyTorch can be used for regression tasks, showing concepts s
 
 ---
 
+
+## File Structure
+
+PyTorch_function_regression/
+├─ regression.py
+├─ requirements.txt
+└─ README.md
+
+
 ## Requirements
 
 Install the required dependencies:
