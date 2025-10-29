@@ -23,7 +23,7 @@ It demonstrates how PyTorch can be used for regression tasks, showing concepts s
 ## Results
 
 
-
+<img width="1200" height="500" alt="Final-Results" src="https://github.com/user-attachments/assets/bfef0c15-7e90-43ab-a684-81268f787783" />
 
 
 ---
