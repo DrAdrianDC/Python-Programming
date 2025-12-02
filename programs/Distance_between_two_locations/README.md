@@ -40,7 +40,7 @@ pip install numpy
 ## How to Use
 1- Clone or download the script.
 
-2- Run the script and input the name of the chemical compound you want information about.
+2- Run the script and the input data about.
 ```bash
 python haversine.py
 ```
