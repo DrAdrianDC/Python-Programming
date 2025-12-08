@@ -1,5 +1,5 @@
 
-How to use it
+### How to use it
 
 Place the PDF: Put your PDF file (e.g., my_book.pdf) in the same folder as this script.
 
