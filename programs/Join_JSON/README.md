@@ -1,4 +1,6 @@
-## Join JSON Parts
+## 
+
+### Join JSON Parts
 
 Merge two JSON parts of the same PDF into one file:
 - Keeps all metadata from part 1.
