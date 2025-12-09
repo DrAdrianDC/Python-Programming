@@ -7,7 +7,7 @@ Merge two JSON parts of the same PDF into one file:
 - Removes embedded `debug_data_path` markers inside the text and drops a root-level `debug_data_path` if present.
 
 
-### Run
+### How to Run
 From the repo root:
 ```bash
 python join_json.py
