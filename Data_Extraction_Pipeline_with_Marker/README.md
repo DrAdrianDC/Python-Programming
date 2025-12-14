@@ -29,3 +29,24 @@ graph TD
     C -->|No Match| E[Fallback / Unverified]
     D -->|Phase 3: Validation| F[Final DB-Ready JSON]
     E -->|Phase 3: Validation| F
+```
+
+Phase 1: Extraction (GPU-Accelerated)
+
+    Converts PDF to Markdown using Marker v1.0+.
+
+    Medical Mode: Configured with batch_multiplier=1 to prioritize OCR accuracy over speed (preventing symbol hallucinations like ± becoming 6).
+
+    Extracts tentative metadata (DOI/Title) from the raw PDF.
+
+Phase 2: Verification
+
+    Queries the PubMed API to verify titles and DOIs.
+
+    Enriches data with authoritative citations, publication years, and official links.
+
+Phase 3: Validation & Assembly
+
+    Validates data against a strict Pydantic schema.
+
+    Outputs one JSON per document containing the verified metadata and clean corpus.
