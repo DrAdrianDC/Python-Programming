@@ -1,0 +1,50 @@
+2025-12-14 18:40:32 - [INFO] - ================================================================================
+2025-12-14 18:40:32 - [INFO] - PHASE 1: ASCO PDF EXTRACTION STARTED (MARKER v1.0+)
+2025-12-14 18:40:32 - [INFO] - Start time: 2025-12-14 18:40:32
+2025-12-14 18:40:32 - [INFO] - ================================================================================
+2025-12-14 18:40:32 - [INFO] - ================================================================================
+2025-12-14 18:40:32 - [INFO] - MARKER PERFORMANCE CONFIGURATION (v1.0+) - UNIVERSAL SCRIPT
+2025-12-14 18:40:32 - [INFO] - ================================================================================
+2025-12-14 18:40:32 - [INFO] - 🎯 Running in Precision-Optimized GPU Mode (Medical Data)
+2025-12-14 18:40:32 - [INFO] - Device: cuda
+2025-12-14 18:40:32 - [INFO] - GPU Name: Tesla T4
+2025-12-14 18:40:32 - [INFO] - Precision: default
+2025-12-14 18:40:32 - [INFO] - Batch Size (SURYA_BATCH_SIZE): 1
+2025-12-14 18:40:32 - [INFO] - Batch Multiplier: 1
+2025-12-14 18:40:32 - [INFO] - MIGRATION NOTES:
+2025-12-14 18:40:32 - [INFO] -   - Migrated from marker-pdf==0.2.6 to v1.0+
+2025-12-14 18:40:32 - [INFO] -   - Using new API: PdfConverter, create_model_dict, text_from_rendered
+2025-12-14 18:40:32 - [INFO] -   - Removed all compatibility patches
+2025-12-14 18:40:32 - [INFO] -   - OCR handling managed internally by Marker
+2025-12-14 18:40:32 - [INFO] -   - Universal script: Auto-detects GPU/CPU and configures dynamically
+2025-12-14 18:40:32 - [INFO] -   - Batch Configuration: batch_multiplier=1, SURYA_BATCH_SIZE=1
+2025-12-14 18:40:32 - [INFO] -   - MEDICAL DATA MODE: Using batch_multiplier=1 for maximum accuracy
+2025-12-14 18:40:32 - [INFO] -     This prevents symbol misrecognition (e.g., '±' → '6') in medical tables
+2025-12-14 18:40:32 - [INFO] - ================================================================================
+2025-12-14 18:40:33 - [INFO] - Found 1 PDF file(s) to process
+2025-12-14 18:40:33 - [INFO] - Loading Marker models using create_model_dict (v1.0+ API)...
+2025-12-14 18:40:33 - [INFO] - Using Marker v1.0+ API (create_model_dict)
+2025-12-14 18:41:46 - [INFO] - Models loaded successfully in 73.43 seconds
+2025-12-14 18:41:46 - [INFO] - Initializing PdfConverter (v1.0+ API)...
+2025-12-14 18:41:46 - [INFO] - PdfConverter initialized successfully
+2025-12-14 18:41:46 - [INFO] - Processing: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.pdf
+2025-12-14 18:41:46 - [INFO] -   Converting PDF to Markdown: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.pdf
+2025-12-14 18:41:46 - [INFO] -   Trying PdfConverter (v1.0+ API)
+2025-12-14 18:46:17 - [INFO] -   ✓ Successfully used PdfConverter API
+2025-12-14 18:46:17 - [INFO] -   Extracting metadata: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.pdf
+2025-12-14 18:46:17 - [INFO] -   Found DOI in Marker corpus: 10.1200/GO.23.00285
+2025-12-14 18:46:17 - [INFO] -   ✓ Successfully processed: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.pdf
+2025-12-14 18:46:17 - [INFO] -     - Output: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.json
+2025-12-14 18:46:17 - [INFO] -     - Title: Systemic Treatment of Patients With Metastatic Breast Cancer: ASCO Resource–Stratified Guideline
+2025-12-14 18:46:17 - [INFO] -     - DOI: 10.1200/GO.23.00285
+2025-12-14 18:46:17 - [INFO] -     - Corpus length: 221,786 characters
+2025-12-14 18:46:17 - [INFO] -     - Processing time: 271.08 seconds
+2025-12-14 18:46:17 - [INFO] - ================================================================================
+2025-12-14 18:46:17 - [INFO] - PHASE 1: ASCO PDF EXTRACTION COMPLETED
+2025-12-14 18:46:17 - [INFO] - End time: 2025-12-14 18:46:17
+2025-12-14 18:46:17 - [INFO] - Total execution time: 344.98 seconds (5.75 minutes)
+2025-12-14 18:46:17 - [INFO] - Successfully processed: 1 PDF(s)
+2025-12-14 18:46:17 - [INFO] - Failed: 0 PDF(s)
+2025-12-14 18:46:17 - [INFO] - Output directory: /content/drive/MyDrive/Data_Extraction_Pipeline_with_Marker/data/marker_outputs
+2025-12-14 18:46:17 - [INFO] - Execution log: /content/drive/MyDrive/Data_Extraction_Pipeline_with_Marker/logs/phase1_execution.log
+2025-12-14 18:46:17 - [INFO] - ================================================================================
