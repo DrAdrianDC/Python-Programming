@@ -1,0 +1,28 @@
+2025-12-14 18:48:48 - [INFO] - ================================================================================
+2025-12-14 18:48:48 - [INFO] - PHASE 2 & 3: PUBMED ENRICHMENT AND VALIDATION STARTED
+2025-12-14 18:48:48 - [INFO] - Start time: 2025-12-14 18:48:48
+2025-12-14 18:48:48 - [INFO] - ================================================================================
+2025-12-14 18:48:48 - [INFO] - Found 1 intermediate file(s) to process
+2025-12-14 18:48:48 - [INFO] - Processing: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.json
+2025-12-14 18:48:48 - [INFO] -   Loading intermediate data: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.json
+2025-12-14 18:48:48 - [INFO] -   Searching PubMed by DOI: 10.1200/GO.23.00285
+2025-12-14 18:48:48 - [INFO] -   ✓ Found PMID via DOI: 38206277
+2025-12-14 18:48:48 - [INFO] -   Fetching citation for PMID: 38206277
+2025-12-14 18:48:49 - [INFO] -   ✓ Successfully processed: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy.json
+2025-12-14 18:48:49 - [INFO] -     - Output: al-sukhun-et-al-2024-systemic-treatment-of-patients-with-metastatic-breast-cancer-asco-resource-stratified-guideline copy_final.json
+2025-12-14 18:48:49 - [INFO] -     - Title: Systemic Treatment of Patients With Metastatic Breast Cancer: ASCO Resource-Stra...
+2025-12-14 18:48:49 - [INFO] -     - PMID: 38206277
+2025-12-14 18:48:49 - [INFO] -     - DOI: 10.1200/GO.23.00285
+2025-12-14 18:48:49 - [INFO] -     - Processing time: 0.96 seconds
+2025-12-14 18:48:49 - [INFO] - ================================================================================
+2025-12-14 18:48:49 - [INFO] - PHASE 2 & 3: PUBMED ENRICHMENT AND VALIDATION COMPLETED - FINAL REPORT
+2025-12-14 18:48:49 - [INFO] - ================================================================================
+2025-12-14 18:48:49 - [INFO] - End time: 2025-12-14 18:48:49
+2025-12-14 18:48:49 - [INFO] - Total execution time: 0.96 seconds (0.02 minutes)
+2025-12-14 18:48:49 - [INFO] - Total files: 1
+2025-12-14 18:48:49 - [INFO] - Successfully validated (new): 1
+2025-12-14 18:48:49 - [INFO] - Skipped (already processed): 0
+2025-12-14 18:48:49 - [INFO] - Failed: 0
+2025-12-14 18:48:49 - [INFO] - Output directory: /content/drive/MyDrive/Data_Extraction_Pipeline_with_Marker/data/processed
+2025-12-14 18:48:49 - [INFO] - Execution log: /content/drive/MyDrive/Data_Extraction_Pipeline_with_Marker/logs/phase2_3_execution.log
+2025-12-14 18:48:49 - [INFO] - ================================================================================
