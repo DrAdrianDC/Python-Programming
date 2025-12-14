@@ -8,7 +8,7 @@ A robust, production-ready ETL pipeline designed to convert complex clinical gui
 
 This project leverages **Marker (v1.0+)** for state-of-the-art PDF-to-Markdown conversion and validates metadata against the **PubMed API** to ensure high-fidelity data suitable for RAG (Retrieval-Augmented Generation) systems in healthcare.
 
-## ⚡ Why Marker?
+## Why Marker?
 
 Traditional PDF parsers (like PyMuPDF or pypdf) often output "soup" text—losing headers, list structures, and table layouts. This is critical in oncology guidelines where a number inside a table cell dictates patient care.
 
@@ -17,7 +17,7 @@ This pipeline uses **[Marker](https://github.com/VikParuchuri/marker)** because 
 * **Deep Learning Powered**: Uses OCR and layout analysis models to handle multi-column medical layouts.
 * **Math & Equations**: Correctly renders mathematical formulas often found in dosage guidelines.
 
-## 🔄 Workflow
+## Workflow
 
 The pipeline operates in a linear, checkpointed workflow to ensure data integrity.
 
@@ -32,7 +32,7 @@ graph TD
 ```
 
 
-## 🛠️ Features
+## Features
 **Phase 1: Extraction (GPU-Accelerated)**
 
     Converts PDF to Markdown using Marker v1.0+.
@@ -52,3 +52,11 @@ graph TD
     Validates data against a strict Pydantic schema.
 
     Outputs one JSON per document containing the verified metadata and clean corpus.
+
+
+
+
+
+## License
+
+This project is licensed under the MIT License.
