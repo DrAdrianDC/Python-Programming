@@ -31,6 +31,8 @@ graph TD
     E -->|Phase 3: Validation| F
 ```
 
+
+## 🛠️ Features
 Phase 1: Extraction (GPU-Accelerated)
 
     Converts PDF to Markdown using Marker v1.0+.
