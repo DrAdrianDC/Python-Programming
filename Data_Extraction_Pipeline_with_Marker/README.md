@@ -53,8 +53,15 @@ graph TD
 
     Outputs one JSON per document containing the verified metadata and clean corpus.
 
+## How to Run
 
+#### Step 1: Extract Text & Structure (Marker)
+#### Output: data/marker_outputs/
+python asco_marker_extraction.py
 
+#### Step 2: Verify & Enrich (PubMed)
+#### Output: data/processed/
+python asco_pubmed_enrichment.py
 
 
 ## License
