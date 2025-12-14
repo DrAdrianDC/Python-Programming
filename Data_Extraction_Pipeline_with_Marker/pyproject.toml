@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "ASCO_Guidelines"
+version = "0.1.0"
+description = ""
+authors = ["Adrian Dominguez-Castro <adriandc1989@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+marker-pdf = ">=1.0.0"
+pydantic = ">=2.0.0"
+pypdfium2 = ">=4.30.0"
+requests = ">=2.32.0"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
