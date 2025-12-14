@@ -33,7 +33,7 @@ graph TD
 
 
 ## 🛠️ Features
-Phase 1: Extraction (GPU-Accelerated)
+**Phase 1: Extraction (GPU-Accelerated)**
 
     Converts PDF to Markdown using Marker v1.0+.
 
@@ -41,13 +41,13 @@ Phase 1: Extraction (GPU-Accelerated)
 
     Extracts tentative metadata (DOI/Title) from the raw PDF.
 
-Phase 2: Verification
+**Phase 2: Verification**
 
     Queries the PubMed API to verify titles and DOIs.
 
     Enriches data with authoritative citations, publication years, and official links.
 
-Phase 3: Validation & Assembly
+**Phase 3: Validation & Assembly**
 
     Validates data against a strict Pydantic schema.
 
