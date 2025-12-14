@@ -55,6 +55,8 @@ graph TD
 
 ## How to Run
 
+Place your PDF files in the data/raw/ directory.
+
 #### Step 1: Extract Text & Structure (Marker)
 #### Output: data/marker_outputs/
 python asco_marker_extraction.py
