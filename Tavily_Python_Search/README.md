@@ -11,11 +11,14 @@ This project demonstrates how to use the Tavily API with Python to perform AI-po
 
 ## 📂 Project Structure
 
+```
 .
 ├── main.py
 ├── requirements.txt
 ├── .env
 └── README.md
+
+```
 
 ## 🛠️ Requirements
 
@@ -25,19 +28,21 @@ This project demonstrates how to use the Tavily API with Python to perform AI-po
 ## 📦 Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/DrAdrianDC/Python-Programming/tavily_python_search.git
 cd tavily_python_search
+```
 
 2. Create and activate a virtual environment:
-
+```
 python -m venv venv
 source venv/bin/activate 
-
+```
 
 3. Install dependencies:
-
+```
 pip install -r requirements.txt
+```
 
 ## 🔑 Setup Environment Variables
 
@@ -48,7 +53,7 @@ TAVILY_API_KEY=your_api_key_here
 ## ▶️ Usage
 
 Run the script:
-
+```
 python main.py
-
+```
 
