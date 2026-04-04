@@ -45,8 +45,13 @@ pip install -r requirements.txt
 ```
 
 ## 🔑 Setup Environment Variables
+1. Copy the example file to create your local environment configuration:
 
-Create a `.env` file in the root directory:
+```
+cp .env.example .env
+```
+
+2. Open the .env file and set your API keys:
 
 TAVILY_API_KEY=your_api_key_here
 
