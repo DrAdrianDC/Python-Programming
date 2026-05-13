@@ -5,3 +5,5 @@ This directory contains a foundational example of how to use ChromaDB, an open-s
 ### Prerequisites
 
 Make sure you have Python 3.7 or later installed in your virtual environment. You can install the main dependency by running:
+
+pip install chromadb
