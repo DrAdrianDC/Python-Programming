@@ -66,6 +66,3 @@ python scripts/asco_marker_extraction.py
 python scripts/asco_pubmed_enrichment.py
 
 
-## License
-
-This project is licensed under the MIT License. (LICENSE.txt) 
