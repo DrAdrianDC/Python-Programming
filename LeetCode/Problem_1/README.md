@@ -2,8 +2,12 @@
 
 Python solution for LeetCode Problem 1: **Two Sum**.
 
-## Approach
+## Solutions
 
-This solution uses a hash map (dictionary) to achieve an optimal **$O(n)$ time complexity**. 
+* **`two_sum.py` (Brute Force):** Uses two nested `for` loops to check all possible pairs.
+  * **Time Complexity:** $O(n^2)$
+  
 
-Instead of using nested loops, it iterates through the array only once, checking if the complement (`target - current_number`) already exists in the dictionary. If it does, the indices are returned immediately; otherwise, the current number and its index are stored for future checks.
+* **`two_sum_optimized.py` (Optimal):** Uses a hash map (dictionary) to find the complement in a single pass.
+  * **Time Complexity:** $O(n)$
+ 
