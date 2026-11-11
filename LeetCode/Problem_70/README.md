@@ -4,4 +4,4 @@ Python solution for LeetCode Problem 70: Climbing Stairs
 
 ## Solutions
 
-* **`climbing_stairs.py`
+* **`climbing_stairs.py`**
